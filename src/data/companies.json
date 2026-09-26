@@ -1,0 +1,5533 @@
+[
+ {
+  "id": "accenture",
+  "name": "ACCENTURE",
+  "reports": 3,
+  "roles": [
+   "Associate Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "Safe Exam Browser",
+    "focus": [
+     "English ability",
+     "Problem Solving",
+     "Abstract Reasoning",
+     "MS Office",
+     "Pseudo code",
+     "Network Security and Cloud Computing"
+    ]
+   },
+   {
+    "name": "Coding Assessment",
+    "format": "Safe Exam Browser",
+    "focus": [
+     "Data Types",
+     "Arrays",
+     "Strings",
+     "Frontend",
+     "Backend",
+     "SQL"
+    ]
+   },
+   {
+    "name": "Communication Round",
+    "format": "Online",
+    "focus": [
+     "Reading",
+     "Listening",
+     "Speaking",
+     "Story Retelling",
+     "Email Writing"
+    ]
+   },
+   {
+    "name": "Virtual Interview",
+    "format": "Online",
+    "focus": [
+     "Self-introduction",
+     "Project explanation",
+     "Behavioral questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Pseudo code",
+   "MS Office",
+   "Networking and Cloud Computing",
+   "Python",
+   "Java",
+   "C/C++",
+   "HTML, CSS, JavaScript",
+   "SQL"
+  ],
+  "sampleQuestions": [
+   "Explain about your academic project",
+   "What are the difficulties faced in your project and how did you overcome it?",
+   "Find the number of ways to split an array into two subarrays such that the absolute difference between their sums is even",
+   "Display the Trip_ID and Booking_ID where the payment status is NOT successful from different tables",
+   "Create a button with id ToggleBtn that displays a quote randomly when pressed"
+  ],
+  "hrQuestions": [
+   "Introduce about yourself",
+   "Why Accenture?",
+   "What is your least favourite subject and why?",
+   "How do you handle conflict with your team-mates?"
+  ],
+  "tips": [
+   "Practice aptitude, coding, and verbal reasoning regularly",
+   "Be strong in at least one programming language",
+   "Prepare a good self-introduction",
+   "Manage your time well during timed assessments",
+   "Communicate with confidence and maintain a positive attitude"
+  ],
+  "resources": [
+   "Indiabix.com",
+   "LeetCode",
+   "GeeksforGeeks",
+   "W3Schools",
+   "Quantitative Aptitude by R.S. Agarwal",
+   "PrepInsta"
+  ]
+ },
+ {
+  "id": "accolite-digital-private-limited",
+  "name": "ACCOLITE Digital Private Limited",
+  "reports": 3,
+  "roles": [
+   "Software Engineer",
+   "Software Developer Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online MCQ Test",
+    "focus": [
+     "Data Structures",
+     "Algorithms",
+     "DBMS",
+     "Operating Systems",
+     "Computer Networks",
+     "Aptitude"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Coding Test",
+    "focus": [
+     "Data Structures",
+     "Arrays",
+     "Graphs"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview 1",
+    "focus": [
+     "DSA",
+     "OOPs",
+     "DBMS",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical Interview 2",
+    "focus": [
+     "Data Structures",
+     "Algorithms",
+     "DBMS",
+     "Operating Systems",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "Technical Interview 3",
+    "focus": [
+     "Problem Solving",
+     "Database Design",
+     "Resume Projects"
+    ]
+   },
+   {
+    "name": "Round 6",
+    "format": "General HR",
+    "focus": [
+     "Projects",
+     "Hobbies",
+     "Personal Background"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "DBMS",
+   "Operating Systems",
+   "Computer Networks",
+   "OOPs",
+   "Arrays",
+   "Linked List",
+   "Trees",
+   "Graphs",
+   "SQL",
+   "Normalization",
+   "Time and Space Complexity"
+  ],
+  "sampleQuestions": [
+   "Find the sum of all the digits of N.",
+   "Delete a node in a linked list given only access to that node.",
+   "Find the intersection point of two linked lists.",
+   "Check if there is a cycle in a directed graph and return -1 or the longest path.",
+   "Find the minimum number of coins needed to make change for Rs N.",
+   "Find duplicate elements in an unsorted linked list.",
+   "Print numbers from 1 to N, substituting Fizz, Buzz, and FizzBuzz for multiples of 3, 5, and 15.",
+   "Find the majority element in a sorted array in O(log n) time.",
+   "Find the number of trailing zeros in a factorial.",
+   "Find the minimum number of operations to make all array elements zero by halving evens and decrementing odds."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What are your strengths and weaknesses?",
+   "Why do you want to join Accolite?",
+   "What are your future plans and goals?",
+   "What qualities do you look for in a roommate when moving to a new city?",
+   "What is your perspective on smart work versus hard work?"
+  ],
+  "tips": [
+   "Be strong in core computer science subjects and basic data structures.",
+   "Always start with a brute force solution and work towards an optimized approach.",
+   "Know the time and space complexity of your solutions.",
+   "Be realistic and thorough with everything mentioned in your resume.",
+   "Communicate your thoughts clearly while solving problems.",
+   "Maintain enthusiasm and stay confident across multiple interview rounds."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "HackerRank",
+   "Indiabix",
+   "Javatpoint",
+   "W3Schools"
+  ]
+ },
+ {
+  "id": "akamai",
+  "name": "AKAMAI",
+  "reports": 2,
+  "roles": [
+   "Associate Technical Solutions Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "General Aptitude",
+     "Verbal Ability",
+     "Technical Aptitude",
+     "Computer Networks"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Computer Networks",
+     "OSI Model",
+     "DNS",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Managerial HR",
+    "focus": [
+     "Situational Questions",
+     "Problem Solving",
+     "Communication Skills"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "General HR",
+    "focus": [
+     "Personal Discussion",
+     "Relocation",
+     "Company Culture"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Computer Networks",
+   "OSI Model",
+   "TCP/IP",
+   "DNS",
+   "DHCP",
+   "HTTP/HTTPS",
+   "Operating Systems",
+   "DBMS and SQL",
+   "UNIX",
+   "Cryptography"
+  ],
+  "sampleQuestions": [
+   "Explain what happens when you hit enter on a URL.",
+   "Explain the 7 layers of the OSI model.",
+   "Explain the working of DNS in detail.",
+   "What is the difference between TCP and UDP?",
+   "Explain TCP 3-way handshake process.",
+   "What is a CDN and how is it achieved at Akamai?",
+   "How would you troubleshoot a client-facing network issue?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join Akamai?",
+   "What do you know about your job designation?",
+   "Are you ready to relocate to Bangalore?",
+   "What are your strengths and weaknesses?"
+  ],
+  "tips": [
+   "Be thoroughly prepared with computer networking concepts.",
+   "Research Akamai and its products like CDNs before the interview.",
+   "Keep a positive attitude and try to provide multiple solutions to problems.",
+   "Prepare an impressive introduction for the Tell me about yourself question.",
+   "Be honest if you do not know an answer."
+  ],
+  "resources": [
+   "IndiaBix",
+   "R.S. Aggarwal",
+   "GeeksforGeeks",
+   "Neso Academy",
+   "Cisco Packet Tracer",
+   "Wireshark"
+  ]
+ },
+ {
+  "id": "anora-technologies",
+  "name": "Anora Technologies",
+  "reports": 4,
+  "roles": [
+   "Trainee Engineer",
+   "Graduate Engineer Trainee",
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Assessment",
+    "format": "MCQ, Psychometric and Coding",
+    "focus": [
+     "Network Theory",
+     "Analog Electronics",
+     "Digital Electronics",
+     "Linear Integrated Circuits",
+     "C Programming",
+     "Aptitude"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Face to Face",
+    "focus": [
+     "Projects",
+     "Core Subjects",
+     "Programming",
+     "Digital Electronics",
+     "Microcontrollers"
+    ]
+   },
+   {
+    "name": "General HR",
+    "format": "Face to Face",
+    "focus": [
+     "Family Background",
+     "Bond",
+     "CTC",
+     "Self Introduction"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Network Theory",
+   "Analog Electronics",
+   "Digital Electronics",
+   "Linear Integrated Circuits",
+   "VLSI",
+   "Microcontroller Based Systems",
+   "C programming",
+   "Data Structures",
+   "DBMS",
+   "OOPS"
+  ],
+  "sampleQuestions": [
+   "Find the output of the given logic circuits",
+   "Calculate equivalent resistance and voltage drop across load",
+   "Right Rotate the string Anora 5 times",
+   "Write a code for virtual functions",
+   "Detect cycle in a linked list and find middle element"
+  ],
+  "hrQuestions": [
+   "Why Anora?",
+   "Would you like to do higher studies?",
+   "Give any 1 reason to hire you and not to hire you",
+   "Discussion about family background, bond and CTC"
+  ],
+  "tips": [
+   "Practice coding and aptitude regularly",
+   "Be thorough with your projects and resume",
+   "Manage time effectively during the online test",
+   "Be bold and confident while speaking to the interviewer",
+   "Understand the basics of core engineering subjects"
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "Neso Academy",
+   "JavaTpoint"
+  ]
+ },
+ {
+  "id": "appviewx",
+  "name": "APPVIEWX",
+  "reports": 4,
+  "roles": [
+   "R&D Software Engineer",
+   "Software Engineer, R&D",
+   "Engineer – Software Development"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Test",
+    "focus": [
+     "Aptitude",
+     "Logical Reasoning",
+     "Basic Math",
+     "Coding",
+     "Computer Networks"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Group Discussion",
+    "focus": [
+     "Communication",
+     "General Knowledge",
+     "English Fluency"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Data Structures",
+     "Algorithms",
+     "OOPS",
+     "DBMS",
+     "Networks"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Managerial Round",
+    "focus": [
+     "Projects",
+     "Data Structures",
+     "OOPS",
+     "Communication"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "General HR",
+    "focus": [
+     "Company Awareness",
+     "Background",
+     "General Questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Object Oriented Programming",
+   "DBMS",
+   "Computer Networks",
+   "Operating Systems",
+   "Java",
+   "C Programming"
+  ],
+  "sampleQuestions": [
+   "Find whether the given number is a factorial number or not.",
+   "Find the GCD of two numbers using recursion.",
+   "Find the maximum profit for buying and selling the stocks.",
+   "Design a Hash Map without using any built-in hash table libraries.",
+   "How a message gets transmitted when it is sent through Google Chats?",
+   "How is it possible to run 20GB program in 16 GB RAM?",
+   "Implement a hash map without using inbuilt libraries.",
+   "How will you implement a multithreaded program in Java?",
+   "Find the nth largest element of the array.",
+   "Convert a Roman numeral to an integer.",
+   "Count the number of leaf nodes in a binary tree.",
+   "Convert a binary tree into a doubly linked list."
+  ],
+  "hrQuestions": [
+   "What is the biggest achievement in your life?",
+   "Why AppViewX?",
+   "Do you have any ideas regarding higher studies and if not why?",
+   "Of three years of college life, tell me one or two moments that you are proud of.",
+   "Do you have any role models in life and if so who and why?"
+  ],
+  "tips": [
+   "Be confident and maintain good communication.",
+   "Practice coding regularly.",
+   "Have basic knowledge on core subjects.",
+   "Revise all the core CSE concepts.",
+   "Be thorough with your projects.",
+   "Do not panic if you don't know an answer, ask for a hint."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "Javatpoint",
+   "TakeUForward",
+   "Neso Academy"
+  ]
+ },
+ {
+  "id": "aqfer",
+  "name": "AQFER",
+  "reports": 4,
+  "roles": [
+   "Product Development",
+   "Software Developer",
+   "Site Reliability Engineer",
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Aptitude Test",
+    "format": "Written Test",
+    "focus": [
+     "Technical Aptitude",
+     "CS Fundamentals",
+     "Core Subjects",
+     "Quantitative Aptitude"
+    ]
+   },
+   {
+    "name": "Coding Test",
+    "format": "Offline Compiler / Assignment",
+    "focus": [
+     "Data Structures",
+     "Algorithms",
+     "Arrays and Strings",
+     "Optimization"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Face-to-Face / Online",
+    "focus": [
+     "Problem Solving",
+     "Projects",
+     "OOPs",
+     "Core Subjects"
+    ]
+   },
+   {
+    "name": "General HR",
+    "format": "Face-to-Face / Phone",
+    "focus": [
+     "Background",
+     "Communication",
+     "Interests",
+     "Relocation"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Object-Oriented Programming",
+   "Operating Systems",
+   "Computer Networks",
+   "DBMS",
+   "Sorting Algorithms",
+   "Graphs and Trees",
+   "Bit Manipulation"
+  ],
+  "sampleQuestions": [
+   "Find the first and last occurrence of the target element in the given sorted array.",
+   "Find the longest length subarray having the maximum sum.",
+   "Detect loop or cycle in a linked list using fast and slow pointers.",
+   "Check whether the given two strings are anagrams or not.",
+   "Design a rate limiter program using a sliding window."
+  ],
+  "hrQuestions": [
+   "What is your family background?",
+   "Why do you want to join AQFER?",
+   "Would you like to do higher studies?",
+   "Tell about the skills achieved from your hobbies."
+  ],
+  "tips": [
+   "Be thorough with CS fundamental concepts.",
+   "Try to implement solutions using optimized approaches.",
+   "Practice coding problems daily using a timer.",
+   "Communicate enough to express your approach clearly."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "HackerRank",
+   "Coding Ninjas",
+   "TakeYouForward"
+  ]
+ },
+ {
+  "id": "bosch-global-software-technologies-bsgw",
+  "name": "Bosch Global Software Technologies (BSGW)",
+  "reports": 2,
+  "roles": [
+   "Electronics Developer (Hardware)",
+   "Mobility Software Developer (Embedded)",
+   "Embedded Engineer",
+   "IT Services or Embedded Projects"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment Test",
+    "focus": [
+     "General Aptitude",
+     "English Proficiency",
+     "Technical MCQs",
+     "Circuit Design"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical HR Interview",
+    "focus": [
+     "Projects",
+     "Electron Devices",
+     "Analog Electronics",
+     "Core Subjects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "General HR Interview",
+    "focus": [
+     "Family background",
+     "Location preference",
+     "Long term goals",
+     "Behavioral questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Electron Devices",
+   "Analog Electronics",
+   "Linear Integrated Circuits",
+   "Power Electronics",
+   "Digital Electronics",
+   "Control Systems",
+   "Microcontrollers",
+   "Embedded Systems",
+   "C and C++ Programming",
+   "OOPs Concepts"
+  ],
+  "sampleQuestions": [
+   "Draw the block diagram of your project and explain its working.",
+   "What is MOSFET and how does it work?",
+   "Explain the difference between BJT and MOSFET.",
+   "What are the four pillars of OOPs?",
+   "Given 2 arrays, find the common elements and print in ascending order."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join Bosch?",
+   "What are your long term and short term goals?",
+   "Are you willing to relocate?",
+   "What are your strengths and weaknesses?"
+  ],
+  "tips": [
+   "Be strong in your basics and core electronic subjects.",
+   "Have a thorough and clear understanding of your mini project.",
+   "Manage your time effectively during the online assessment.",
+   "Be confident and clear when answering questions."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "Neso Academy",
+   "LeetCode",
+   "All About Electronics"
+  ]
+ },
+ {
+  "id": "caratlane",
+  "name": "CARATLANE",
+  "reports": 6,
+  "roles": [
+   "Software Engineer",
+   "Machine Learning Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "DSA",
+     "DBMS",
+     "OOPS",
+     "OS",
+     "Linux"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "DSA",
+     "DBMS",
+     "Projects",
+     "Coding",
+     "Core Subjects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "HR Interview",
+    "focus": [
+     "Projects",
+     "Resume",
+     "Behavioral"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Database Management Systems",
+   "Object Oriented Programming",
+   "Operating Systems",
+   "Linux",
+   "SQL",
+   "Machine Learning",
+   "Deep Learning",
+   "Python",
+   "Statistics"
+  ],
+  "sampleQuestions": [
+   "What is the output of the relu activation function for an input of -2?",
+   "Write the query used in your project to fetch records.",
+   "Difference between bagging and boosting, bias and variance trade-off",
+   "Which test is used to check if two categorical variables are independent?",
+   "Explain how CNN works for images and tell me about padding and pooling technique.",
+   "Swap two numbers without using a 3rd variable."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Explain one of your favorite projects from the resume.",
+   "What do you see yourself in 3 years?",
+   "What is your dream?",
+   "About your family"
+  ],
+  "tips": [
+   "Practice coding regularly in platforms like LeetCode and GeeksforGeeks.",
+   "Be thorough with your resume and projects.",
+   "Be confident and explain your answers with examples.",
+   "Understand the basic concepts of core subjects thoroughly.",
+   "Ask clarifying questions and explain your approach before coding."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "IndiaBix",
+   "JavaTpoint",
+   "InterviewBit"
+  ]
+ },
+ {
+  "id": "caterpillar-inc",
+  "name": "CATERPILLAR INC",
+  "reports": 3,
+  "roles": [
+   "Software Engineer",
+   "Associate Engineer",
+   "Mechanical Design Engineer",
+   "Data Scientist"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "SHL Online Assessment with Multiple Choice Questions",
+    "focus": [
+     "Quantitative Aptitude",
+     "Verbal Ability",
+     "Logical Reasoning",
+     "Core Technical Concepts",
+     "Programming"
+    ]
+   },
+   {
+    "name": "Coding Test",
+    "format": "Online Coding Assessment",
+    "focus": [
+     "Arrays",
+     "Strings",
+     "Data Structures and Algorithms"
+    ]
+   },
+   {
+    "name": "Group Discussion",
+    "format": "Offline Group Discussion",
+    "focus": [
+     "Current Affairs",
+     "Emerging Technologies",
+     "Electric Vehicles",
+     "General Topics",
+     "Communication Skills"
+    ]
+   },
+   {
+    "name": "Technical and HR Interview",
+    "format": "Offline Face-to-Face Interview",
+    "focus": [
+     "Projects",
+     "Resume Deep Dive",
+     "Core Subjects",
+     "Problem Solving",
+     "HR Questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C Programming",
+   "C++ Programming",
+   "Data Structures and Algorithms",
+   "Object Oriented Programming",
+   "Database Management Systems",
+   "Operating Systems",
+   "Computer Networks",
+   "Analog and Digital Electronics",
+   "Control Systems",
+   "Strength of Materials",
+   "Thermodynamics",
+   "Manufacturing Processes"
+  ],
+  "sampleQuestions": [
+   "Find the frequency of character c in a given string s.",
+   "Write a C program to find the greatest of four numbers.",
+   "What is Entropy and what are the laws of thermodynamics?",
+   "Explain the difference between UART and RS232 protocols.",
+   "Count the IDs in an array that are not vowels in uppercase and lowercase."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself and your family background.",
+   "Explain your project, your contribution, and its real-world applications.",
+   "Have you ever felt stressful in your college life, and how did you overcome that?",
+   "Why do you choose Data Science?",
+   "Where do you see yourself in the next 3 years?"
+  ],
+  "tips": [
+   "Be thorough with everything mentioned in your resume.",
+   "Practice coding daily and maintain consistency.",
+   "Manage time effectively during online assessments.",
+   "Stay confident, bold, and maintain a smile during interviews.",
+   "Understand the fundamentals of your core engineering subjects."
+  ],
+  "resources": [
+   "IndiaBix",
+   "GeeksforGeeks",
+   "LeetCode",
+   "Neso Academy",
+   "Tutorialspoint",
+   "RS Aggarwal Quantitative Aptitude"
+  ]
+ },
+ {
+  "id": "coda-global",
+  "name": "CODA GLOBAL",
+  "reports": 2,
+  "roles": [
+   "Associate Cloud Engineer",
+   "Cloud Engineer - Trainee",
+   "Product Engineer",
+   "Cloud Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "MCQ assessment on ClassMarker",
+    "focus": [
+     "Logical Reasoning",
+     "Operating Systems",
+     "OOPs Concepts",
+     "Programming"
+    ]
+   },
+   {
+    "name": "Programming Round",
+    "format": "Coding and API integration task",
+    "focus": [
+     "API Parsing",
+     "Data Structures",
+     "AWS S3",
+     "Problem Solving"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Face-to-face interview over Zoom or Microsoft Teams",
+    "focus": [
+     "Data Structures",
+     "DBMS and SQL",
+     "Cloud Computing",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Assignment and Task Review",
+    "format": "Take-home practical assignment and live review",
+    "focus": [
+     "AWS",
+     "Docker",
+     "Application Development",
+     "Automation Scripting"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures",
+   "DBMS and SQL",
+   "Operating Systems",
+   "Computer Networks",
+   "Cloud Computing",
+   "AWS Services",
+   "Docker",
+   "Python",
+   "C++",
+   "API Development",
+   "Linux Commands",
+   "OOPs"
+  ],
+  "sampleQuestions": [
+   "What is the difference between Delete and Truncate?",
+   "How do you check if all characters are unique in a string?",
+   "What is AWS Route 53?",
+   "Write an SQL query to return the last 5 rows based on total marks.",
+   "What is an array and how will you explain it to a non-technical person?",
+   "Explain the OSI model and its relation to real-world web requests."
+  ],
+  "hrQuestions": [
+   "Why are you interested in this cloud engineer role?",
+   "How did you get interested in Machine Learning?",
+   "What are your strengths and weaknesses?",
+   "What are your hobbies?"
+  ],
+  "tips": [
+   "Be thorough and honest with every word and skill listed in your resume.",
+   "Be proficient in at least one programming language.",
+   "Understand fundamental computer science concepts deeply.",
+   "Complete tasks sincerely and be ready to explain code line by line."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "Jenny’s Lectures YouTube Channel",
+   "InterviewBit",
+   "Javatpoint"
+  ]
+ },
+ {
+  "id": "cognizant",
+  "name": "COGNIZANT",
+  "reports": 5,
+  "roles": [
+   "Programmer Analyst",
+   "Programmer Analyst Trainee",
+   "GenC",
+   "Analyst / Quality Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Quantitative Aptitude",
+     "Verbal Ability",
+     "Logical Reasoning",
+     "Communication Assessment"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Coding",
+     "Core Subjects",
+     "Resume Projects",
+     "Aptitude",
+     "OOPs"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "HR Interview",
+    "focus": [
+     "Document Verification",
+     "Internship Interest",
+     "General HR"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C",
+   "C++",
+   "Java",
+   "Python",
+   "SQL",
+   "DBMS",
+   "Data Structures",
+   "OOPs",
+   "HTML",
+   "Unix commands",
+   "Networking",
+   "Core Engineering"
+  ],
+  "sampleQuestions": [
+   "Tell me about yourself.",
+   "What is the difference between an array and a list?",
+   "Explain the four pillars of OOPs.",
+   "Write a code to find an Armstrong Number.",
+   "Write a code to reverse a string word by word.",
+   "What are pointers? Explain with an example.",
+   "What is the difference between call by value and call by reference?",
+   "What is the difference between heat and temperature?"
+  ],
+  "hrQuestions": [
+   "Why do you opt for IT from Core?",
+   "Tell me about CTS.",
+   "What are your strengths and weaknesses?",
+   "Are you interested in doing an internship?",
+   "What are the two most difficult situations you faced and how did you overcome them?",
+   "What is your aspiration and family background?"
+  ],
+  "tips": [
+   "Be thorough and 100 percent confident with your resume.",
+   "Practice aptitude regularly and manage your time well.",
+   "Be clear and confident while answering questions.",
+   "Explain concepts with real-time examples.",
+   "Concentrate on communication skills."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "Indiabix",
+   "Javatpoint",
+   "R.S. Aggarwal",
+   "Prepinsta",
+   "CareerRide"
+  ]
+ },
+ {
+  "id": "commvault",
+  "name": "COMMVAULT",
+  "reports": 2,
+  "roles": [
+   "SRE",
+   "SDE",
+   "SDET",
+   "Associate Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Aptitude",
+     "Python",
+     "C++",
+     "Java",
+     "DSA",
+     "Core Subjects"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Long Coding / Application Deployment",
+    "focus": [
+     "Coding",
+     "System Design",
+     "AWS",
+     "OS",
+     "Manual Testing"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Code Review",
+     "Python",
+     "API",
+     "DSA",
+     "OOPs"
+    ]
+   }
+  ],
+  "techTopics": [
+   "DSA",
+   "Python",
+   "C++",
+   "Java",
+   "Operating Systems",
+   "DBMS",
+   "Computer Networks",
+   "AWS",
+   "API",
+   "Software Testing",
+   "OOPs",
+   "System Design"
+  ],
+  "sampleQuestions": [
+   "Find the fractional knapsack problem solution.",
+   "Find the minimum falling path sum in a matrix.",
+   "Find the longest common subsequence of two strings.",
+   "Merge two sorted linked lists.",
+   "Find the left side view of a binary tree.",
+   "Rotate a matrix by 90 degrees and push all x to the bottom.",
+   "Design an in-memory file system with version control.",
+   "Write a python script to replace a word in multiple text files.",
+   "What is a REST API and how do you test it?",
+   "What is the difference between a python variable and a C++ variable?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Explain your projects mentioned in the resume."
+  ],
+  "tips": [
+   "Be strong in your chosen programming language like C++ or Java.",
+   "Practice core subjects like OS, DBMS, and Computer Networks thoroughly.",
+   "Focus heavily on Data Structures and Algorithms including Dynamic Programming.",
+   "Write clean code with proper variable naming and comments.",
+   "Be calm during long coding rounds and take time in the design phase.",
+   "Solve aptitude problems daily for time management."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "Javatpoint",
+   "W3Schools",
+   "Strivers A2Z DSA Sheet"
+  ]
+ },
+ {
+  "id": "d-e-shaw",
+  "name": "D. E. Shaw",
+  "reports": 6,
+  "roles": [
+   "Software Development Engineer in Test",
+   "Quality and Test Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Coding and Aptitude Test",
+    "focus": [
+     "DSA",
+     "Aptitude",
+     "DBMS",
+     "Operating Systems",
+     "Computer Networks"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "DSA",
+     "Operating Systems",
+     "Projects",
+     "DBMS"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Advanced Technical Interview",
+    "focus": [
+     "DSA",
+     "System Design",
+     "Puzzles",
+     "Core CS Subjects"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "General HR",
+    "focus": [
+     "Background",
+     "Career Goals",
+     "Relocation",
+     "Company Alignment"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Operating Systems",
+   "Database Management Systems",
+   "Computer Networks",
+   "Object-Oriented Programming",
+   "System Design",
+   "Testing"
+  ],
+  "sampleQuestions": [
+   "Find the peak index in a mountain array.",
+   "Find the lowest common ancestor of a binary tree.",
+   "Delete all duplicate employee records in a table.",
+   "Merge sort on a linked list.",
+   "Find the subarray with maximum GCD."
+  ],
+  "hrQuestions": [
+   "Why choose this role when other roles exist?",
+   "What do you expect from a company?",
+   "What are your plans for the next few years?",
+   "What are your dream companies?"
+  ],
+  "tips": [
+   "Start with a brute force approach and then optimize.",
+   "Manage your time effectively during the online aptitude test.",
+   "Be thoroughly prepared to explain your projects and role.",
+   "Clarify constraints with the interviewer before solving a problem."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "CodeChef",
+   "IndiaBIX",
+   "CSES Problem Set"
+  ]
+ },
+ {
+  "id": "deloitte",
+  "name": "Deloitte",
+  "reports": 5,
+  "roles": [
+   "Analyst",
+   "Analyst (ADMM)",
+   "Analyst - T&T - ServiceNow"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Aptitude",
+     "Verbal ability",
+     "Technical MCQs",
+     "Computer Fundamentals",
+     "Programming"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Group Discussion",
+    "focus": [
+     "Case study",
+     "Problem solving",
+     "Communication"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Resume projects",
+     "Programming",
+     "SQL",
+     "Core CS subjects"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "HR Interview",
+    "focus": [
+     "General discussion",
+     "Background",
+     "Relocation"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Quantitative Aptitude",
+   "Data Interpretation",
+   "Verbal Comprehension",
+   "Data Structures and Algorithms",
+   "Cloud Computing",
+   "Operating Systems",
+   "Computer Networks",
+   "SQL and Databases",
+   "Python",
+   "JavaScript",
+   "HTML",
+   "Git and GitHub"
+  ],
+  "sampleQuestions": [
+   "What are the differences between primary key and foreign key in SQL?",
+   "Explain the concept of private cloud and its security advantages.",
+   "Write a program to print the Fibonacci series.",
+   "How do you implement a palindrome check for a number?",
+   "What is the difference between inner join and left join?",
+   "Explain the usage of the this keyword in JavaScript."
+  ],
+  "hrQuestions": [
+   "Briefly introduce yourself.",
+   "Why do you want to join Deloitte?",
+   "What do you know about Deloitte?",
+   "Are you willing to relocate?",
+   "What are your strengths and weaknesses?"
+  ],
+  "tips": [
+   "Manage your time carefully during the online aptitude assessment.",
+   "Be confident and structure your points clearly during the group discussion.",
+   "Thoroughly prepare and be ready to explain every project listed in your resume.",
+   "Maintain good eye contact and communicate clearly without stammering."
+  ],
+  "resources": [
+   "IndiaBix",
+   "GeeksforGeeks",
+   "Careerride",
+   "InterviewBit",
+   "W3Schools",
+   "Leetcoder"
+  ]
+ },
+ {
+  "id": "embedur",
+  "name": "embedUR",
+  "reports": 3,
+  "roles": [
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Quiz / Aptitude",
+    "focus": [
+     "General Aptitude",
+     "C Programming",
+     "Networking",
+     "Core Engineering"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Group Discussion",
+    "focus": [
+     "Core Subjects",
+     "DSA",
+     "C Programming",
+     "Operating Systems"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Advanced Technical Discussion",
+    "focus": [
+     "Advanced Core",
+     "Data Structures",
+     "Networking"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Face to Face / Technical Interview",
+    "focus": [
+     "Technical Rapid Fire",
+     "C Programming",
+     "Core Concepts"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "General and Technical HR",
+    "focus": [
+     "Self Introduction",
+     "Family Background",
+     "Personality"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C Programming",
+   "Data Structures and Algorithms",
+   "Operating Systems",
+   "Computer Networks",
+   "Microcontrollers and Microprocessors",
+   "Digital Electronics",
+   "Analog Electronics",
+   "Linear Integrated Circuits",
+   "Circuit Theory",
+   "Electromagnetic Fields",
+   "DBMS",
+   "Cryptography"
+  ],
+  "sampleQuestions": [
+   "What is the difference between malloc and calloc?",
+   "What is the difference between struct and union?",
+   "Explain Barkhausen criteria for oscillators.",
+   "What are the conditions for deadlock in operating systems?",
+   "Explain the difference between TCP and UDP.",
+   "What is a page fault in operating systems?",
+   "Explain the working of 8051 and 8086 microprocessors.",
+   "What are the differences between latches and flip-flops?",
+   "State Thevenin's and Norton's theorems.",
+   "Explain the differences between BJT, FET, and MOSFET."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Explain your family background.",
+   "Why do you want to join this company?",
+   "How would your friends describe you?",
+   "Explain your project experiences."
+  ],
+  "tips": [
+   "Be very thorough with your basic core engineering concepts.",
+   "Answer technical questions in a short and clear manner.",
+   "Keep track of time during online aptitude tests.",
+   "Be confident and maintain positive body language.",
+   "Treat your resume as your primary question paper."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "Neso Academy",
+   "LeetCode",
+   "Javatpoint",
+   "Class Notes"
+  ]
+ },
+ {
+  "id": "exl-services",
+  "name": "EXL Services",
+  "reports": 4,
+  "roles": [
+   "Data Engineering Intern",
+   "NLP Intern",
+   "Oracle Developer",
+   "A1 Band Intern"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1: Online Assessment",
+    "format": "Online MCQ test on Cocubes or Aon platform lasting 45 minutes with negative marking",
+    "focus": [
+     "Verbal Ability",
+     "Logical Reasoning",
+     "Quantitative Aptitude",
+     "Data Interpretation",
+     "Analytical Questions"
+    ]
+   },
+   {
+    "name": "Round 2: Technical Interview",
+    "format": "Offline face-to-face interview lasting 35 to 45 minutes",
+    "focus": [
+     "SQL",
+     "Python",
+     "DBMS Fundamentals",
+     "NLP",
+     "Resume Projects",
+     "Cloud Computing"
+    ]
+   },
+   {
+    "name": "Round 3: Additional Technical Panel",
+    "format": "Offline interview for specialized tracks",
+    "focus": [
+     "Databricks",
+     "Cloud Services",
+     "Advanced SQL",
+     "Python Code Optimization"
+    ]
+   }
+  ],
+  "techTopics": [
+   "SQL Joins and Subqueries",
+   "Window Functions",
+   "Python Basics and Dataframes",
+   "NLP and Text Extraction",
+   "Databricks and Apache Spark",
+   "Cloud Services",
+   "DBMS Fundamentals",
+   "ETL Pipelines"
+  ],
+  "sampleQuestions": [
+   "What is the difference between HAVING and WHERE clauses in SQL?",
+   "How do you write a query using joins to find non-matching rows?",
+   "What is the difference between DROP, TRUNCATE, and DELETE commands?",
+   "Explain the difference between 'is' and '==' in Python.",
+   "What are the steps involved in NLP processing like stemming and lemmatization?"
+  ],
+  "hrQuestions": [
+   "Can you give a brief professional self-introduction?",
+   "What are your long-term career goals?",
+   "How do you adapt to a new environment or shift-based work schedule?",
+   "How do you balance extracurricular activities with your studies?"
+  ],
+  "tips": [
+   "Focus on accuracy over speed in the aptitude round and be cautious of negative marking.",
+   "Be thorough with everything listed on your resume and expect deep dives into your projects.",
+   "Practice writing SQL queries by hand under time constraints.",
+   "Think aloud and explain your reasoning clearly during scenario-based questions.",
+   "Be honest and do not hesitate to ask the interviewer for clarification if unsure."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "W3Schools",
+   "CareerRide",
+   "LeetCode"
+  ]
+ },
+ {
+  "id": "factset",
+  "name": "FactSet",
+  "reports": 2,
+  "roles": [
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Coding Test on HackerRank",
+    "focus": [
+     "Problem Solving",
+     "Data Structures",
+     "Algorithms",
+     "SQL",
+     "Java"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview on HackerRank Codepair",
+    "focus": [
+     "Data Structures and Algorithms",
+     "Problem Solving",
+     "Time Complexity",
+     "Coding from Scratch"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Advanced Technical Interview",
+    "focus": [
+     "Data Structures",
+     "Algorithmic Programming",
+     "Trees",
+     "Dynamic Programming"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Managerial and HR Interview",
+    "focus": [
+     "Resume",
+     "Projects",
+     "General HR",
+     "Area of Interest"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures",
+   "Algorithms",
+   "Problem Solving",
+   "Arrays",
+   "Strings",
+   "Linked List",
+   "Binary Tree",
+   "Dynamic Programming",
+   "SQL",
+   "Java Exception Handling",
+   "Object-Oriented Programming"
+  ],
+  "sampleQuestions": [
+   "Given a string, output binary strings with their occurrence in the string.",
+   "Given a 2D binary array, count and store the number of consecutive ones using DFS.",
+   "Select students whose total marks are greater than or equal to 500 and print them in descending order.",
+   "Delete a given node in a linked list that is not a tail node.",
+   "Given a sentence with extra whitespaces, reverse the order of words.",
+   "Given an array of weights and maximum capacity, find the maximum weight that can be lifted.",
+   "Given total steps n with 1 or 2 steps at a time, find the distinct ways to climb up.",
+   "Given an array of chocolate packets and m children, find the minimum difference between max and min chocolates distributed.",
+   "Given a binary tree, print all the nodes in diagonal order.",
+   "Find the minimum size subarray sum that meets a given value."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself and your family background.",
+   "Why did you choose your engineering stream?",
+   "What are your personal projects and technical stack used?",
+   "What role are you interested in?",
+   "Are you comfortable with relocation if required?"
+  ],
+  "tips": [
+   "Start by giving a brute force solution and then optimize it further.",
+   "Be loud and clear about your approach while solving problems.",
+   "Interact with the interviewer and ask for hints if you get stuck.",
+   "Practice coding data structures from scratch.",
+   "Analyze the time complexity of every code you write.",
+   "Read the questions carefully twice or thrice before attempting."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "HackerRank",
+   "InterviewBit",
+   "IndiaBix",
+   "YouTube Channels like Abdul Bari and Tech Dose"
+  ]
+ },
+ {
+  "id": "gain-credit",
+  "name": "GAIN CREDIT",
+  "reports": 2,
+  "roles": [
+   "Software Engineer",
+   "Software Engineer I"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Coding Test on Mettl",
+    "focus": [
+     "Data Structures and Algorithms",
+     "Dynamic Programming",
+     "Arrays",
+     "Graphs"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Code Review and Technical Interview",
+    "focus": [
+     "Code Explanation",
+     "OOPS",
+     "DBMS and SQL",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Managerial and Technical Round",
+    "focus": [
+     "HR Questions",
+     "Problem Solving",
+     "Projects",
+     "Core Subjects"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures",
+   "Algorithms",
+   "OOPS",
+   "DBMS",
+   "SQL",
+   "Operating Systems",
+   "Networks",
+   "Dynamic Programming",
+   "Graphs"
+  ],
+  "sampleQuestions": [
+   "Find the minimum number of jumps to reach the end of an array.",
+   "Find the length of the shortest clear path in a binary matrix.",
+   "Explain OOP and give syntax for Inheritance, Polymorphism, and Composition.",
+   "What are Database, Schema, and different types of joins?",
+   "What is a process and what happens when we create a process?",
+   "Count pairs in an array whose sum is divisible by K."
+  ],
+  "hrQuestions": [
+   "Why should I hire you?",
+   "What inspired you to approach Gain Credit?",
+   "What do you expect from Gain Credit as a fresher?",
+   "What are your greatest strengths and weaknesses?",
+   "Do you believe in hard work or smart work?"
+  ],
+  "tips": [
+   "Practice coding regularly and focus on optimization techniques.",
+   "Be thoroughly prepared on all topics and projects mentioned in your resume.",
+   "Interact frequently with the interviewer to explain your thinking process.",
+   "Don't panic to seek clarifications or hints whenever required."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "HackerRank",
+   "InterviewBit",
+   "Javatpoint",
+   "TutorialsPoint"
+  ]
+ },
+ {
+  "id": "ganit",
+  "name": "GANIT",
+  "reports": 4,
+  "roles": [
+   "Data Analyst"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online test",
+    "focus": [
+     "Aptitude",
+     "Logical reasoning",
+     "Data interpretation",
+     "Coding"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Group Discussion",
+    "focus": [
+     "Communication skills",
+     "General topics"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Selfie video and Case study",
+    "focus": [
+     "Communication",
+     "Guess estimation"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Personal Interview",
+    "focus": [
+     "Technical",
+     "Projects",
+     "Puzzles",
+     "Coding"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Coding",
+   "Data structures",
+   "DBMS",
+   "Machine Learning",
+   "Statistics",
+   "Probability",
+   "Puzzles",
+   "Aptitude"
+  ],
+  "sampleQuestions": [
+   "What is the smallest number of socks you must take out to be sure you have a matching pair?",
+   "Find the largest element in an array and modify it to print the second largest element.",
+   "How many TT balls can fit in your campus?",
+   "What is the angle between hour and minute hands at 12:52?",
+   "Given two hourglasses of 4 minutes and 7 minutes, how will you calculate 9 minutes?",
+   "Print the Fibonacci series."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What is your goal in life and why is this your goal?",
+   "Why Ganit?",
+   "What is your favorite subject and why?"
+  ],
+  "tips": [
+   "Be confident and speak out during the group discussion.",
+   "Make logical assumptions in the guess estimation round.",
+   "Focus on basics rather than advanced topics.",
+   "Use pen and paper to work out puzzles."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "Brainly",
+   "HackerRank",
+   "AnalyticsVidya",
+   "Towards Data Science"
+  ]
+ },
+ {
+  "id": "hcl-tech",
+  "name": "HCL TECH",
+  "reports": 2,
+  "roles": [
+   "Hardware",
+   "Embedded C",
+   "C Programming",
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Aptitude Round",
+    "format": "Online Assessment",
+    "focus": [
+     "Quantitative Aptitude",
+     "Logical Reasoning",
+     "Verbal Reasoning",
+     "Critical Reasoning",
+     "Analytical Reasoning"
+    ]
+   },
+   {
+    "name": "Communication Round",
+    "format": "Versant Test",
+    "focus": [
+     "Grammar",
+     "Listening",
+     "Speaking",
+     "Reading",
+     "Writing"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Face-to-face",
+    "focus": [
+     "C Programming",
+     "Digital Electronics",
+     "Analog Electronics",
+     "Microcontrollers"
+    ]
+   },
+   {
+    "name": "General HR Interview",
+    "format": "Online",
+    "focus": [
+     "Self Introduction",
+     "Strengths and Weaknesses",
+     "Relocation",
+     "Service Agreement"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C Programming",
+   "Digital Electronics",
+   "Analog Electronics",
+   "Microcontrollers",
+   "Quantitative Aptitude",
+   "Logical Reasoning",
+   "Verbal Ability"
+  ],
+  "sampleQuestions": [
+   "Explain about mosfet and transistor.",
+   "What is a multiplexer and what type of mux are available?",
+   "Print the reversal of my name using string reversal.",
+   "Write a program for Fibonacci series using recursion.",
+   "Explain the difference between struct and class.",
+   "What are the 4 pillars of OOPS?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What are your strengths and weaknesses?",
+   "Why do you want to get placed in HCL?",
+   "Where do you see yourself in 5 years?",
+   "Are you willing to work in shifts and relocate?"
+  ],
+  "tips": [
+   "Manage time effectively during the aptitude test.",
+   "Maintain a clear audio and calm tone during communication round.",
+   "Be strong in the basics of C programming.",
+   "Explain your approach even if you do not know the exact answer.",
+   "Be confident and polite during the HR interview."
+  ],
+  "resources": [
+   "Indiabix",
+   "GeeksforGeeks",
+   "CareerRide",
+   "Neso Academy",
+   "TutorialsPoint",
+   "PrepInsta"
+  ]
+ },
+ {
+  "id": "hyperverge",
+  "name": "HYPERVERGE",
+  "reports": 3,
+  "roles": [
+   "Product Analyst",
+   "DevOps Intern",
+   "IT",
+   "SDE"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "AI Portal or Online / Resume submission",
+    "focus": [
+     "Resume",
+     "Video quiz",
+     "Machine Learning fundamentals",
+     "Problem Solving"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical or Coding Interview / Offline task",
+    "focus": [
+     "Problem Solving",
+     "SQL",
+     "Deep Learning",
+     "Image Classification"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview or Group Discussion",
+    "focus": [
+     "AWS Services",
+     "DevOps",
+     "Machine Learning fundamentals",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical Interview",
+    "focus": [
+     "Deep Learning",
+     "Neural Networks",
+     "Projects",
+     "Data Engineering"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "HR Interview",
+    "focus": [
+     "Personal Experiences",
+     "SWOT Analysis",
+     "Cultural Fit",
+     "Goals"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Machine Learning",
+   "Deep Learning",
+   "SQL",
+   "Arrays",
+   "AWS Services",
+   "ResNet-18",
+   "Activation Functions",
+   "Overfitting vs Underfitting",
+   "Confusion Matrix",
+   "Data Preprocessing",
+   "Feature Engineering",
+   "Load Balancer"
+  ],
+  "sampleQuestions": [
+   "Why Hyperverge? Why Product Analyst?",
+   "Where do you see yourself in 5 years?",
+   "What is a load balancer? How do they perform health checks?",
+   "How would you recover data from an AWS EC2 instance, when you have lost access to the private key?",
+   "What is a Random Forest Classifier?",
+   "Given a scenario where a model performs well on training data but doesn't perform well on test data. What could be the potential reasons?"
+  ],
+  "hrQuestions": [
+   "Low and high moments in specific time periods of my life.",
+   "Where do you see yourself in 5 years?",
+   "Goals, Achievements, Strengths and Areas of improvement during three phases of my life.",
+   "Questions about strengths, weaknesses, and how you’re working to overcome them."
+  ],
+  "tips": [
+   "Always be confident about your answer, feel free to explain your approach.",
+   "Have a clear understanding of your projects and prepare yourself to talk about them.",
+   "Start with the brute force approach and go step by step during problem solving.",
+   "Focus on the approach and problem-solving process rather than just the model."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "StatQuest",
+   "3Blue1Brown",
+   "Brainstellar",
+   "Kaggle"
+  ]
+ },
+ {
+  "id": "ibm",
+  "name": "IBM",
+  "reports": 5,
+  "roles": [
+   "Software Developer"
+  ],
+  "rounds": [
+   {
+    "name": "Coding Assessment",
+    "format": "Online",
+    "focus": [
+     "Arrays",
+     "Strings",
+     "DSA"
+    ]
+   },
+   {
+    "name": "English Language Assessment",
+    "format": "Online",
+    "focus": [
+     "Speaking abilities",
+     "Grammar"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Offline",
+    "focus": [
+     "Projects",
+     "Resume",
+     "Core Subjects"
+    ]
+   },
+   {
+    "name": "HR Interview",
+    "format": "Offline",
+    "focus": [
+     "Communication",
+     "General HR",
+     "Scenarios"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Arrays",
+   "Strings",
+   "MySQL",
+   "Operating Systems",
+   "DBMS",
+   "C Programming"
+  ],
+  "sampleQuestions": [
+   "Find the maximum total value achievable by assigning one tool use to each of the m developers.",
+   "Find the number of sequence of k consecutive days where the stock prices are strictly increasing.",
+   "Given a string, find the longest palindromic substring.",
+   "Check whether the given string is a pangram or not.",
+   "What is backpropagation? What is gradient descent?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why did you choose your branch and CSE?",
+   "How will you generate an OTP and send it to the user's mobile and email?",
+   "How do you handle stress and teamwork?"
+  ],
+  "tips": [
+   "Be thorough with Arrays, Strings, and simple logic/pattern problems.",
+   "Practice MySQL queries involving joins, grouping, and conditions.",
+   "Be clear and confident while explaining your projects.",
+   "Keep your self-introduction crisp and highlight key strengths."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "HackerRank",
+   "TakeUForward"
+  ]
+ },
+ {
+  "id": "incture-technologies",
+  "name": "INCTURE TECHNOLOGIES",
+  "reports": 5,
+  "roles": [
+   "Associate Software Engineer",
+   "Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Quantitative Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability",
+     "Coding"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Design Round",
+    "focus": [
+     "System Design",
+     "Problem Solving",
+     "Flowcharts"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical and HR Round",
+    "focus": [
+     "Resume Projects",
+     "OOPs",
+     "DBMS and SQL",
+     "Programming Languages"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Arrays and Strings",
+   "Quantitative Aptitude",
+   "Logical Reasoning",
+   "OOPs",
+   "DBMS and SQL",
+   "System Design",
+   "Web Development",
+   "Data Structures"
+  ],
+  "sampleQuestions": [
+   "Extract the numerical values except the number 9 from the given string.",
+   "Given arrays of positive and negative elements, arrange them at alternate positions without changing original order.",
+   "Find the origin city and final destination city from a given list of city pairs.",
+   "Calculate the total revenue over n days based on given daily increase rules.",
+   "Design a system to automatically allocate seats in an aircraft for individuals and families."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join Incture?",
+   "What are your hobbies or activities outside of academics?",
+   "Why should we hire you?",
+   "What are your future plans and goals?"
+  ],
+  "tips": [
+   "Practice aptitude and coding regularly.",
+   "Be thorough with everything mentioned in your resume.",
+   "Include a clear flowchart in the design round.",
+   "Be confident and maintain a positive attitude.",
+   "Admit if you do not know an answer rather than panicking."
+  ],
+  "resources": [
+   "IndiaBix",
+   "LeetCode",
+   "GeeksforGeeks",
+   "Hackerrank",
+   "W3Schools",
+   "Striver Sheet"
+  ]
+ },
+ {
+  "id": "informatica",
+  "name": "INFORMATICA",
+  "reports": 4,
+  "roles": [
+   "Associate Software Engineer",
+   "Data Ops",
+   "Technical Support Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Assessment",
+    "format": "Aon Assessment MCQ test",
+    "focus": [
+     "Operating Systems",
+     "Data Structures",
+     "DBMS",
+     "Computer Networks",
+     "Quantitative Aptitude",
+     "Java / Python / C++"
+    ]
+   },
+   {
+    "name": "Technical Interview 1",
+    "format": "Zoom or Face-to-Face interview",
+    "focus": [
+     "DSA",
+     "DBMS and SQL",
+     "Operating Systems",
+     "Computer Networks",
+     "Linux Commands"
+    ]
+   },
+   {
+    "name": "Technical Interview 2",
+    "format": "Face-to-Face or Zoom interview",
+    "focus": [
+     "Data Structures and Algorithms",
+     "Advanced SQL",
+     "OOPS concepts",
+     "Project Discussion",
+     "Networking"
+    ]
+   },
+   {
+    "name": "Managerial Round",
+    "format": "Face-to-Face or Zoom interview",
+    "focus": [
+     "Resume and Internships",
+     "Project Challenges",
+     "Company Understanding",
+     "Behavioral Questions"
+    ]
+   },
+   {
+    "name": "HR Round",
+    "format": "Offline or Telephonic interview",
+    "focus": [
+     "Family Background",
+     "Why Informatica",
+     "General HR Questions",
+     "Strengths and Weaknesses"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Database Management Systems and SQL",
+   "Operating Systems",
+   "Computer Networks",
+   "Object Oriented Programming",
+   "Java Programming",
+   "Linux and Unix Commands",
+   "Python"
+  ],
+  "sampleQuestions": [
+   "Write a SQL query to find the employee with highest salary.",
+   "Using stack check if the string is palindrome or not.",
+   "Difference between SQL and No-SQL databases and their use cases.",
+   "Differentiate between TCP and UDP.",
+   "How does a hashmap work internally in Java?",
+   "Write a SQL query to print the employees having salary greater than the average salary with respect to their department.",
+   "Find the Middle Node of a Linked List.",
+   "Implement Stack using Linked List.",
+   "Explain the difference between delete, drop and truncate.",
+   "Write a code to print the matrix in spiral form."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What is your family background?",
+   "Why do you want to join Informatica?",
+   "Why should we hire you?",
+   "What do you know about the company and its products?",
+   "Explain your best project."
+  ],
+  "tips": [
+   "Be strong in core computer science fundamentals.",
+   "Practice problem solving on a daily basis.",
+   "Thoroughly understand everything you put in your resume.",
+   "Research about the company and the role before attending.",
+   "Be confident and clear in your communication."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "Strivers SDE Sheet",
+   "HackerRank",
+   "W3Schools"
+  ]
+ },
+ {
+  "id": "infosys",
+  "name": "INFOSYS",
+  "reports": 3,
+  "roles": [
+   "Specialist Programmer",
+   "Systems Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online MCQ and Assessment",
+    "focus": [
+     "Logical Reasoning",
+     "Quantitative Aptitude",
+     "Verbal Ability",
+     "Pseudocode",
+     "Puzzles",
+     "Essay Writing"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Face-to-Face Technical and HR Interview",
+    "focus": [
+     "Projects",
+     "Core CS Subjects",
+     "DBMS",
+     "OOPS",
+     "DSA"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures",
+   "Algorithms",
+   "DBMS",
+   "OOPS",
+   "SQL",
+   "Pseudocode",
+   "Cloud Computing",
+   "AWS"
+  ],
+  "sampleQuestions": [
+   "How do you run an Angular project from GitHub on your local machine?",
+   "What is the difference between WHERE and HAVING in SQL?",
+   "What are the pillars of OOPS?",
+   "Explain normalization and its types.",
+   "What is the difference between COUNT() and COUNT(*)?",
+   "Explain your project and its workflow."
+  ],
+  "hrQuestions": [
+   "Introduce yourself.",
+   "Why Infosys?",
+   "What are your strengths and weaknesses?",
+   "Tell me about your family background.",
+   "What is your domain of interest?"
+  ],
+  "tips": [
+   "Be confident while answering questions.",
+   "Know your resume completely.",
+   "Be thorough with your projects.",
+   "Practice aptitude questions regularly.",
+   "Maintain clear communication."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "JavaTPoint",
+   "W3Schools",
+   "CareerRide"
+  ]
+ },
+ {
+  "id": "jivox",
+  "name": "JIVOX",
+  "reports": 3,
+  "roles": [
+   "Front End Developer",
+   "Full Stack Developer",
+   "Activation Specialist"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Test",
+    "focus": [
+     "Technical MCQs",
+     "Coding",
+     "Aptitude",
+     "Networks"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Coding",
+     "OOPs",
+     "DBMS",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Problem Solving",
+     "Web Technologies",
+     "DSA"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "System Design",
+    "focus": [
+     "System Design",
+     "OS",
+     "Puzzles"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "HR Interview",
+    "focus": [
+     "HR",
+     "Resume",
+     "Communication"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures",
+   "Algorithms",
+   "OOPs",
+   "DBMS",
+   "OS",
+   "Networking",
+   "JavaScript",
+   "CSS",
+   "HTML"
+  ],
+  "sampleQuestions": [
+   "Find the minimum number of swaps required to segregate even and odd numbers in an array.",
+   "What happens when you type a URL in the browser and press enter?",
+   "Design a system for IRCTC using OOP concepts.",
+   "Remove duplicate elements from a table using SQL queries."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join front end development?",
+   "Explain the projects mentioned in your resume.",
+   "What are your hobbies and interests?"
+  ],
+  "tips": [
+   "Practise coding consistently and focus on optimized approaches.",
+   "Communicate your thought process clearly with the interviewer.",
+   "Be thoroughly prepared with the projects on your resume.",
+   "Ask clarifying questions if you are stuck."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "HackerRank",
+   "IndiaBix",
+   "InterviewBit"
+  ]
+ },
+ {
+  "id": "l-t-technology-services-ltts",
+  "name": "L&T Technology Services(LTTS)",
+  "reports": 2,
+  "roles": [
+   "Associate Engineer Trainee",
+   "Graduate Engineering Trainee",
+   "Engineering Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Test",
+    "focus": [
+     "General Aptitude",
+     "Technical MCQs",
+     "Coding",
+     "Core Subjects"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Core Subjects",
+     "Programming",
+     "Projects",
+     "Internship"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "HR Interview",
+    "focus": [
+     "Self-Introduction",
+     "Resume",
+     "General HR Questions",
+     "Communication Skills"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C and C++",
+   "Data Structures and Algorithms",
+   "DBMS and SQL",
+   "Operating Systems",
+   "Computer Networks",
+   "Embedded Systems",
+   "Control Systems",
+   "Analog and Digital Electronics",
+   "Thermodynamics",
+   "Manufacturing Technology"
+  ],
+  "sampleQuestions": [
+   "Program to convert uppercase letter into lower case and vice versa in a string",
+   "Define power factor and its impact in machine",
+   "If you have a 5-litre jug and a 3-litre jug, how would you measure exactly 4 litres",
+   "Give a three-five-minute introduction about yourself clearly.",
+   "Explain the working and application of a BLDC motor",
+   "Find and print the most frequent vowel in a string",
+   "Implement the function to find and return the count of all buildings that will see the sunset"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What are your strengths and weaknesses?",
+   "Who is your role model?",
+   "Why do you want to join LTTS?",
+   "What is your biggest mistake and how did you overcome it?"
+  ],
+  "tips": [
+   "Be confident and answer boldly.",
+   "Practice coding and aptitude questions regularly.",
+   "Be thorough with your resume and projects.",
+   "Understand the basic concepts both theoretically and practically.",
+   "Stay relaxed during the interview.",
+   "Maintain good communication skills."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "HackerRank",
+   "W3Schools",
+   "Neso Academy"
+  ]
+ },
+ {
+  "id": "larsen-toubro",
+  "name": "LARSEN & TOUBRO",
+  "reports": 3,
+  "roles": [
+   "Graduate Engineer Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment Test",
+    "focus": [
+     "Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability",
+     "Technical Domain"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical and HR Interview",
+    "focus": [
+     "Core Technical Questions",
+     "Resume and Projects",
+     "Extempore Speech",
+     "General HR"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Fluid Mechanics",
+   "Soil Mechanics",
+   "Electrical Machines",
+   "Power Systems",
+   "Control Systems",
+   "Transmission and Distribution"
+  ],
+  "sampleQuestions": [
+   "What is unsymmetrical and symmetrical faults?",
+   "What is power transformer and its cooling methods?",
+   "What is a distance relay and how does it operate?",
+   "What is slip in AC machines?",
+   "What is the difference between an induction motor and a synchronous motor?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Are you willing to relocate to any part of India?",
+   "Do you wish to pursue Higher Studies?",
+   "Why are you interested in L&T?"
+  ],
+  "tips": [
+   "Be very strong in your basics.",
+   "Manage your time effectively during the online test.",
+   "Be confident and clear while answering questions.",
+   "Thoroughly prepare the details and projects mentioned in your resume."
+  ],
+  "resources": [
+   "IndiaBix",
+   "R.S. Agarwal",
+   "NPTEL videos",
+   "GeeksforGeeks",
+   "Standard YouTube channels"
+  ]
+ },
+ {
+  "id": "latentview-analytics",
+  "name": "LATENTVIEW ANALYTICS",
+  "reports": 3,
+  "roles": [
+   "Data Analyst",
+   "Analyst"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1: Online Assessment",
+    "format": "Online MCQ and Coding Assessment",
+    "focus": [
+     "Aptitude",
+     "Logical reasoning",
+     "Statistics",
+     "SQL",
+     "Python",
+     "Personality test"
+    ]
+   },
+   {
+    "name": "Round 2: Group Discussion",
+    "format": "Offline or GMeet Discussion",
+    "focus": [
+     "Communication skills",
+     "Team work",
+     "Current affairs",
+     "Listening skills"
+    ]
+   },
+   {
+    "name": "Round 3: Technical Interview 1",
+    "format": "Online or Offline Interview",
+    "focus": [
+     "SQL queries",
+     "Python coding",
+     "Projects",
+     "Statistics",
+     "Machine Learning"
+    ]
+   },
+   {
+    "name": "Round 4: Technical Interview 2",
+    "format": "Online or Offline Interview",
+    "focus": [
+     "Resume projects",
+     "Case study",
+     "Puzzles",
+     "Advanced SQL",
+     "Data structures"
+    ]
+   },
+   {
+    "name": "Round 5: HR Interview",
+    "format": "Online or Offline Interaction",
+    "focus": [
+     "Background",
+     "Strengths and weaknesses",
+     "Future plans",
+     "Communication"
+    ]
+   }
+  ],
+  "techTopics": [
+   "SQL",
+   "Python",
+   "Statistics",
+   "Machine Learning",
+   "Data Interpretation",
+   "Excel",
+   "OOPs",
+   "Deep Learning",
+   "Aptitude",
+   "Data Structures"
+  ],
+  "sampleQuestions": [
+   "Write a program to determine whether one string is a rotation of another.",
+   "Query to fetch the second order placed by the customer on a given date.",
+   "If a coin is flipped n number of times, what will the nature of the probability distribution be?",
+   "Write a code to check if a string is palindrome.",
+   "What is the difference between WHERE and HAVING clause?",
+   "How would you estimate the revenue of a multiplex theatre in a city?"
+  ],
+  "hrQuestions": [
+   "Why Latentview?",
+   "Where do you see yourself in the next 5 years?",
+   "What are your strengths and weaknesses?",
+   "Why were you not able to clear previous campus interviews?",
+   "How passionate are you about working in Data Analytics?"
+  ],
+  "tips": [
+   "Manage time efficiently during the online aptitude assessment.",
+   "Be thorough with your resume projects and be able to explain them clearly.",
+   "Practice SQL queries and Python coding for technical rounds.",
+   "Maintain good communication skills and listen actively during group discussions.",
+   "Be confident and prepared for case study or scenario-based questions."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "W3Schools",
+   "LeetCode",
+   "IndiaBix",
+   "HackerRank",
+   "Interviewbit"
+  ]
+ },
+ {
+  "id": "mcdermott",
+  "name": "MCDERMOTT",
+  "reports": 4,
+  "roles": [
+   "Associate Chemical Engineer",
+   "Associate Mechanical Engineer",
+   "Associate Piping Engineer",
+   "Associate Health and Safety Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Written Test",
+    "format": "Objective Type Written Test",
+    "focus": [
+     "General Knowledge",
+     "Aptitude",
+     "Technical Questions",
+     "Strength of Materials",
+     "Thermodynamics"
+    ]
+   },
+   {
+    "name": "Psychometric Test",
+    "format": "Personality Test",
+    "focus": [
+     "Problem Handling",
+     "Decision Making",
+     "Relationship Mentality",
+     "Personality"
+    ]
+   },
+   {
+    "name": "Group Discussion",
+    "format": "Offline GD",
+    "focus": [
+     "General Topics",
+     "Communication Skills",
+     "Leadership Quality",
+     "Critical Thinking"
+    ]
+   },
+   {
+    "name": "Interview",
+    "format": "Face to Face",
+    "focus": [
+     "Technical HR",
+     "General HR",
+     "Projects",
+     "Internships",
+     "Core Concepts"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Thermodynamics",
+   "Fluid Mechanics",
+   "Heat and Mass Transfer",
+   "Strength of Materials",
+   "Material Science",
+   "Theory of Machines",
+   "Engineering Mechanics",
+   "Chemical Process Calculations"
+  ],
+  "sampleQuestions": [
+   "What is a centrifugal pump and positive displacement pump with working principle?",
+   "Define hoop stress and longitudinal stress and write the formula.",
+   "What is the difference between centre of gravity and centre of mass?",
+   "What are ferrous and non ferrous materials? Give examples.",
+   "State Bernoulli's principle and why it is useful?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What are your hobbies?",
+   "Are you open to work in whichever fields we allot you?",
+   "Where do you see yourself after 5 years?",
+   "What do you know about McDermott International?"
+  ],
+  "tips": [
+   "Maintain a CGPA above 8.5 to get shortlisted.",
+   "Stay relaxed and think before solving.",
+   "Be bold and confident during the group discussion and interview.",
+   "Focus on core engineering basics and class notes."
+  ],
+  "resources": [
+   "Indiabix",
+   "LeetCode",
+   "GeeksforGeeks",
+   "NPTEL videos"
+  ]
+ },
+ {
+  "id": "miq-digital",
+  "name": "MiQ DIGITAL",
+  "reports": 3,
+  "roles": [
+   "Data Scientist",
+   "Software Engineer",
+   "Business Analyst",
+   "Analyst I"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "HackerRank or Xobin platform with MCQs and coding",
+    "focus": [
+     "Statistical Data Analysis",
+     "Machine Learning",
+     "Quantitative Aptitude",
+     "MySQL",
+     "DSA"
+    ]
+   },
+   {
+    "name": "Gamified Assessment",
+    "format": "Perspect AI platform with games and psychometric test",
+    "focus": [
+     "Logical Thinking",
+     "Puzzles",
+     "Pattern Matching",
+     "Personality",
+     "Numericals"
+    ]
+   },
+   {
+    "name": "Technical Interview 1",
+    "format": "Virtual face-to-face interview",
+    "focus": [
+     "Machine Learning Algorithms",
+     "Statistics",
+     "NLP",
+     "DSA",
+     "SQL"
+    ]
+   },
+   {
+    "name": "Managerial Interview",
+    "format": "Virtual or offline interview",
+    "focus": [
+     "Deep Learning",
+     "System Design",
+     "Case Studies",
+     "Resume Projects"
+    ]
+   },
+   {
+    "name": "HR Interview",
+    "format": "Virtual face-to-face interview",
+    "focus": [
+     "Family Background",
+     "Company Fit",
+     "Relocation",
+     "Hobbies"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Statistics",
+   "Machine Learning",
+   "Deep Learning",
+   "Data Structures and Algorithms",
+   "DBMS",
+   "SQL",
+   "Operating Systems",
+   "Computer Networks",
+   "Object-Oriented Programming",
+   "NLP",
+   "Python",
+   "Java"
+  ],
+  "sampleQuestions": [
+   "Implement a function that takes a string text and an integer k, and returns words occurring at least k times.",
+   "Write a query to fetch each employee id and number of good and error commits.",
+   "Determine if a linked list has a cycle in it.",
+   "Find the top 3 customers based on orders.",
+   "Check if two strings are anagrams.",
+   "Explain the architecture of Random Forest Classifier from the fundamentals.",
+   "Explain about Topic Modelling and brief the LDA model.",
+   "Find the second highest salary using a subquery.",
+   "How will you design a Convolutional Neural Network?",
+   "How will you select a product to be placed in a vending machine based on regional sales data?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself and your family background.",
+   "Why do you want to join MiQ Digital?",
+   "How did you come to know about us?",
+   "Are you willing to relocate?",
+   "Describe yourself using three adverbs.",
+   "What will you do in your free time?"
+  ],
+  "tips": [
+   "Be clear and confident with projects mentioned in your resume.",
+   "Practice aptitude and mathematical questions every day.",
+   "In case an answer is not known, politely inform the interviewer.",
+   "Avoid being too definition-oriented; explain with your own words and real-time examples.",
+   "Manage your time wisely during the online test.",
+   "Be interactive with the interviewer while solving coding and SQL questions."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "W3Schools",
+   "IndiaBix",
+   "StatQuest with Josh Starmer",
+   "TakeUForward"
+  ]
+ },
+ {
+  "id": "mobicip",
+  "name": "MOBICIP",
+  "reports": 2,
+  "roles": [
+   "R&D Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Offline Written Test",
+    "focus": [
+     "General Aptitude",
+     "Technical Aptitude",
+     "C Programming",
+     "Puzzles"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview 1",
+    "focus": [
+     "Previous Test Questions",
+     "C and C++",
+     "DSA",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview 2",
+    "focus": [
+     "DSA",
+     "Projects",
+     "OOPs",
+     "Vector Databases"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical Interview 3",
+    "focus": [
+     "Puzzles",
+     "Cloud Computing",
+     "Advanced DSA",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "General HR Interview",
+    "focus": [
+     "Family Background",
+     "Educational Background",
+     "Relocation",
+     "Company Knowledge"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C Programming and Pointers",
+   "Data Structures and Algorithms",
+   "Object Oriented Programming",
+   "Logical Puzzles",
+   "Project Architecture",
+   "Vector Databases",
+   "Cloud Computing AWS",
+   "SQL and Joins"
+  ],
+  "sampleQuestions": [
+   "Swap two numbers without temporary variables.",
+   "Merge overlapping intervals.",
+   "Implement stack using linked list.",
+   "Merge two sorted arrays in-place.",
+   "Find the number of islands in a grid.",
+   "Find the second highest salary using SQL.",
+   "Transport 3000 bananas across 1000 km using a camel.",
+   "Represent days of the month using two 6-sided dice."
+  ],
+  "hrQuestions": [
+   "Tell me about your family background.",
+   "Are you ready to relocate?",
+   "Why did you choose Mobicip?",
+   "What are your hobbies?",
+   "Why did you choose your course and college?"
+  ],
+  "tips": [
+   "Revise and solve all unsolved questions from previous rounds.",
+   "Know every detail and technology used in your resume projects.",
+   "Ask for hints if stuck and explain your thought process aloud.",
+   "Handle all edge cases when writing code on paper.",
+   "Be consistent and prepared for long interview durations."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "Strivers A2Z DSA course",
+   "IndiaBix",
+   "Telusko",
+   "Kunal Kushwaha"
+  ]
+ },
+ {
+  "id": "mu-sigma",
+  "name": "MU SIGMA",
+  "reports": 2,
+  "roles": [
+   "Trainee Decision Scientist"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1 - MuApt Test",
+    "format": "Online test with multiple choice questions",
+    "focus": [
+     "General Aptitude",
+     "Technical Aptitude",
+     "Verbal Aptitude",
+     "Logical Reasoning",
+     "SQL"
+    ]
+   },
+   {
+    "name": "Round 2 - Video Assessment",
+    "format": "Recorded video answers to displayed questions and case studies",
+    "focus": [
+     "Current Affairs",
+     "Problem Solving",
+     "Logical Reasoning",
+     "Case Study",
+     "General HR"
+    ]
+   },
+   {
+    "name": "Round 3 - Face to Face Interview",
+    "format": "Direct interview",
+    "focus": [
+     "Case Study",
+     "Logical Thinking",
+     "Situation Questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "SQL",
+   "Data Structures",
+   "C",
+   "C++",
+   "Java",
+   "OOPS concepts",
+   "Number system",
+   "Probability",
+   "Time and work",
+   "Logical reasoning",
+   "Verbal ability"
+  ],
+  "sampleQuestions": [
+   "Should China be blamed for COVID 19 or not?",
+   "How can we reduce loss due to abandoned carts in an online app?",
+   "How would you increase the profit of an automobile industry facing constant losses over 5 years?",
+   "How many tennis balls can be filled in an empty room?",
+   "Tell me a situation you proved your leadership skills?",
+   "What would be your contribution if you join the company?"
+  ],
+  "hrQuestions": [
+   "Tell us about you",
+   "Why Mu Sigma?",
+   "What will be your contribution for Mu Sigma's success?",
+   "How much you concern about Mu Sigma's success?"
+  ],
+  "tips": [
+   "Be confident and answer questions clearly and creatively.",
+   "Practice aptitude and logical reasoning questions daily for time management.",
+   "Learn basic concepts in core subjects and technical topics.",
+   "Have basic knowledge about the company before the interview.",
+   "Improve your communication skills to convey your thoughts effectively."
+  ],
+  "resources": [
+   "Indiabix",
+   "GeeksforGeeks",
+   "Freshersworld",
+   "CareerRide",
+   "Interviewbit",
+   "TutorialsPoint"
+  ]
+ },
+ {
+  "id": "multicoreware",
+  "name": "MULTICOREWARE",
+  "reports": 2,
+  "roles": [
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "MCQ Online Test",
+    "focus": [
+     "General Aptitude",
+     "Data Structures",
+     "Operating Systems",
+     "OOPs",
+     "Networks"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Online Coding",
+    "focus": [
+     "Data Structures",
+     "Algorithms",
+     "Stacks",
+     "Graphs",
+     "Matrices"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview 1",
+    "focus": [
+     "Data Structures",
+     "Coding",
+     "Projects",
+     "C++",
+     "OS"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical Interview 2",
+    "focus": [
+     "Data Structures",
+     "OOPs",
+     "Projects",
+     "Operating Systems",
+     "C"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "HR Interview",
+    "focus": [
+     "Behavioral Questions",
+     "Lifetime Goals",
+     "Company Knowledge",
+     "Puzzles"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Operating Systems",
+   "OOPs",
+   "C and C++",
+   "DBMS",
+   "Networks",
+   "Processor Architecture",
+   "Machine Learning"
+  ],
+  "sampleQuestions": [
+   "Check for balanced parentheses in an expression using stack.",
+   "Find the middle element of the linked list.",
+   "Implement merge sort.",
+   "What is over fitting and under fitting in machine learning?",
+   "Find the transpose or rotate the matrix by 90 degrees."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What is your lifetime goal?",
+   "What are your strengths?",
+   "Why do you want to join Multicoreware?",
+   "Do you have any questions for us?"
+  ],
+  "tips": [
+   "Be strong in core subjects and basics of programming languages.",
+   "Start with brute force solutions in coding and then optimize.",
+   "Do not add anything to your resume that you are not confident in.",
+   "Manage time carefully in online tests due to negative marking.",
+   "Be calm and confident during interviews."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "HackerRank",
+   "IndiaBix",
+   "Javatpoint",
+   "CodeWithHarry"
+  ]
+ },
+ {
+  "id": "o9-solutions",
+  "name": "O9 SOLUTIONS",
+  "reports": 2,
+  "roles": [
+   "Technical Consultant",
+   "Consultant",
+   "Technical / Functional Consultant"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "Mettl platform containing General Aptitude and SQL MCQ sections",
+    "focus": [
+     "Quantitative Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability",
+     "Data Interpretation",
+     "SQL"
+    ]
+   },
+   {
+    "name": "Technical cum HR Round",
+    "format": "Google Meet interview discussing resume, projects, and coding",
+    "focus": [
+     "SQL",
+     "Python or C Programming",
+     "Projects",
+     "Supply Chain Management",
+     "General HR Questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "SQL",
+   "DBMS",
+   "Python",
+   "C Programming",
+   "Supply Chain Management",
+   "Data Structures",
+   "OOPs"
+  ],
+  "sampleQuestions": [
+   "What is the difference between DBMS and MySQL?",
+   "What are the different types of joins in SQL?",
+   "How do you write a program to check for a palindrome?",
+   "How do you write a program to find prime numbers?",
+   "What is Supply Chain Management and can you explain it with an example?",
+   "What is the difference between demand planning and supply planning?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join O9 Solutions?",
+   "Where do you see yourself in 5 years?",
+   "What do you know about O9 Solutions?",
+   "Why do you want to switch from Core domain to consulting?"
+  ],
+  "tips": [
+   "Manage your time carefully during the online aptitude test.",
+   "Be thoroughly prepared to explain every project mentioned in your resume.",
+   "Practice SQL queries and joins extensively.",
+   "Maintain confidence and a calm attitude throughout the interview."
+  ],
+  "resources": [
+   "IndiaBix",
+   "LeetCode",
+   "GeeksforGeeks",
+   "W3Schools",
+   "TutorialsPoint",
+   "Indiabix"
+  ]
+ },
+ {
+  "id": "ohmium-operations-private-limited",
+  "name": "OHMIUM OPERATIONS PRIVATE LIMITED",
+  "reports": 1,
+  "roles": [
+   "Graduate Engineer Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Test",
+    "focus": [
+     "General Aptitude",
+     "Technical"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Group Discussion",
+    "focus": [
+     "Communication",
+     "Teamwork"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Face to Face Interview",
+    "focus": [
+     "Technical",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Face to Face Interview",
+    "focus": [
+     "Technical",
+     "General HR"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Strength of Materials",
+   "Thermodynamics",
+   "Fluid Dynamics",
+   "Automobile Systems",
+   "Manufacturing Processes",
+   "Engineering Drawing",
+   "Electronics and Electrical Basics"
+  ],
+  "sampleQuestions": [
+   "What is the resistance value for given color codes?",
+   "Which meter is used to measure phase?",
+   "What is Young's Modulus and how do you define it?",
+   "Explain the difference between bending and torque.",
+   "Draw a bolt and nut."
+  ],
+  "hrQuestions": [
+   "Why Ohmium?",
+   "What do you know about the company?",
+   "Are you interested in doing higher studies?",
+   "Tell me about your family and hobbies."
+  ],
+  "tips": [
+   "Manage time effectively during the online aptitude test.",
+   "Be confident and clear during group discussions.",
+   "Be thorough with your projects and internships.",
+   "Stay calm and polite during technical interviews."
+  ],
+  "resources": [
+   "IndiaBix",
+   "RS Aggarwal",
+   "TutorialsPoint",
+   "Neso Academy",
+   "RS Khurmi and JK Gupta"
+  ]
+ },
+ {
+  "id": "onebill-software",
+  "name": "OneBill Software",
+  "reports": 2,
+  "roles": [
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Assessment",
+    "format": "HackerEarth Online Test",
+    "focus": [
+     "Quantitative Aptitude",
+     "Technical MCQs",
+     "Coding",
+     "SQL Queries"
+    ]
+   },
+   {
+    "name": "Technical HR 1",
+    "format": "Offline Technical Interview",
+    "focus": [
+     "DSA",
+     "DBMS",
+     "Java or Python",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Technical HR 2",
+    "format": "Offline Technical Interview",
+    "focus": [
+     "Debugging",
+     "Core Concepts",
+     "Resume Deep Dive",
+     "Problem Solving"
+    ]
+   },
+   {
+    "name": "General HR",
+    "format": "Offline HR Interview",
+    "focus": [
+     "Family Background",
+     "Hobbies",
+     "Goals",
+     "Projects"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures and Algorithms",
+   "Object-Oriented Programming",
+   "DBMS and SQL",
+   "Java or Python",
+   "Quantitative Aptitude",
+   "Operating Systems"
+  ],
+  "sampleQuestions": [
+   "Find the lexicographically smallest string based on given conditions.",
+   "Reverse the words in a given string.",
+   "Find the two sum problem solution using optimal approaches.",
+   "Detect a loop in a linked list using slow and fast pointers.",
+   "Write a SQL query joining multiple tables using inner join and left join."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "What are your strengths and weaknesses?",
+   "What are your short term and long term goals?",
+   "Explain your project and your contribution to it.",
+   "Why did you choose this engineering field?"
+  ],
+  "tips": [
+   "Practice coding daily and solve at least two problems.",
+   "Keep the recruiter interactive and communicate like a friend.",
+   "Be honest if you do not know an answer rather than bluffing.",
+   "Master a single programming language and use it consistently.",
+   "Be thorough with everything you mention in your resume."
+  ],
+  "resources": [
+   "Striver A2Z DSA Sheet",
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "Javatpoint"
+  ]
+ },
+ {
+  "id": "optisol-business-solutions",
+  "name": "Optisol Business Solutions",
+  "reports": 3,
+  "roles": [
+   "Digital ML Engineer",
+   "Machine Learning Engineer",
+   "Full Stack Engineer",
+   "Data Analyst"
+  ],
+  "rounds": [
+   {
+    "name": "Group Discussion",
+    "format": "Offline",
+    "focus": [
+     "Communication skills",
+     "Soft skills",
+     "AI developments",
+     "Active listening"
+    ]
+   },
+   {
+    "name": "Aptitude Test",
+    "format": "Offline",
+    "focus": [
+     "Quantitative aptitude",
+     "Logical reasoning",
+     "Verbal questions",
+     "Basic mathematics"
+    ]
+   },
+   {
+    "name": "Technical Coding Assessment",
+    "format": "Online",
+    "focus": [
+     "Data structures",
+     "Algorithms",
+     "SQL queries",
+     "Problem solving"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Offline",
+    "focus": [
+     "Resume projects",
+     "Machine learning",
+     "DBMS",
+     "OOPS"
+    ]
+   },
+   {
+    "name": "HR Interview",
+    "format": "Offline",
+    "focus": [
+     "General behaviour",
+     "Company awareness",
+     "Scenario questions",
+     "Background"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Machine Learning",
+   "Deep Learning",
+   "Data Structures",
+   "Algorithms",
+   "SQL",
+   "DBMS",
+   "OOPS",
+   "Python",
+   "Natural Language Processing",
+   "Computer Vision"
+  ],
+  "sampleQuestions": [
+   "Does AI assist or replace human jobs?",
+   "Explain bubble sort along with time complexity.",
+   "What is a cursor in DBMS and what is the difference between procedure and function?",
+   "How can the entire process of candidate selection be automated using AI?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself and your family background.",
+   "What do you know about Optisol?",
+   "Where do you see yourself in 5 years?",
+   "What is your point of view about empathy?"
+  ],
+  "tips": [
+   "Be thorough with your resume and every project mentioned in it.",
+   "Practice coding and data structures regularly on LeetCode.",
+   "Improve communication and active listening skills for group discussions.",
+   "Focus on core concepts like OOPS, DBMS, and SQL."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "IndiaBix",
+   "CareerRide",
+   "Striver Sheet"
+  ]
+ },
+ {
+  "id": "oracle",
+  "name": "Oracle",
+  "reports": 14,
+  "roles": [
+   "Development Consultant",
+   "Developer Consultant",
+   "Business Development Consultant",
+   "Consultant Developer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Aptitude",
+     "Coding",
+     "REST API",
+     "Technical MCQs",
+     "Verbal Ability"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview 1",
+    "focus": [
+     "DBMS",
+     "SQL",
+     "Java",
+     "DSA",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview 2",
+    "focus": [
+     "DBMS",
+     "SQL",
+     "Coding",
+     "Projects",
+     "OOPS"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical Interview 3 / Managerial",
+    "focus": [
+     "Projects",
+     "SDLC",
+     "Frameworks",
+     "AI and DL",
+     "Behavioural"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "General HR",
+    "focus": [
+     "Relocation",
+     "General behavioural",
+     "Company awareness",
+     "Higher studies"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Java",
+   "OOPS",
+   "DBMS",
+   "SQL",
+   "DSA",
+   "REST API",
+   "Operating Systems",
+   "Computer Networks",
+   "JavaScript",
+   "Cloud Computing",
+   "Generative AI",
+   "Power Systems"
+  ],
+  "sampleQuestions": [
+   "What are all the types of joins in SQL?",
+   "Write code for Valid parentheses in java.",
+   "Explain Serialization in java and how to avoid?",
+   "Find first non-repeating character of given String.",
+   "What is the difference between Triggers and procedure?",
+   "Find the second highest salary from the given employee table.",
+   "Cut a circular cake into exactly 8 equal pieces using only 3 straight cuts.",
+   "Given only a 5-liter jug and a 3-liter jug, measure exactly 4 litres of water."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Are you ok with relocation?",
+   "Is there any plan for Masters?",
+   "What are the products developed by Oracle?",
+   "Why Oracle should hire you?",
+   "Where do you see yourself in next 5 years?"
+  ],
+  "tips": [
+   "Work consistently and be patient.",
+   "Revise all core concepts thoroughly.",
+   "Do at least 70 leetcode medium questions focusing on quality over quantity.",
+   "Be confident in interviews and honest if you cannot recall an answer.",
+   "Research about the company and their products.",
+   "Be strong with your projects and the technologies used in them."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "IndiaBix",
+   "JavaTpoint",
+   "InterviewBit",
+   "Striver's SDE Sheet"
+  ]
+ },
+ {
+  "id": "restaurantware",
+  "name": "RestaurantWare",
+  "reports": 2,
+  "roles": [
+   "Software Developer-Trainee",
+   "Software Analyst"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "TestGorilla Platform",
+    "focus": [
+     "Quantitative aptitude",
+     "Logical reasoning",
+     "Verbal ability",
+     "Coding",
+     "DISC Assessment"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Written (Pen-and-paper coding test)",
+    "focus": [
+     "String manipulation",
+     "Array operations",
+     "Recursion",
+     "Pattern validation"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "OOP concepts",
+     "DBMS and SQL",
+     "Spring Boot",
+     "Frontend technologies",
+     "Projects architecture"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Managerial HR Interview",
+    "focus": [
+     "Self-introduction",
+     "Internship experience",
+     "Career preference",
+     "Situational questions"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "General HR Interview",
+    "focus": [
+     "Stress management",
+     "Long-term goals",
+     "Company preference",
+     "Compensation discussion"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Quantitative aptitude",
+   "Logical reasoning",
+   "Verbal ability",
+   "Arrays",
+   "Strings",
+   "Recursion",
+   "OOP concepts",
+   "SQL and database joins",
+   "Spring Boot",
+   "HTML, CSS3, Bootstrap",
+   "JavaScript and React",
+   "MongoDB"
+  ],
+  "sampleQuestions": [
+   "Write a simple if-else based logical program.",
+   "Solve an easy array-based problem using iteration.",
+   "Fix incorrect backtracking code and debug recursion path.",
+   "Write code for balanced parentheses without using a stack library.",
+   "Check if one array is a rotation of another.",
+   "Find the largest palindromic substring using two-pointer center expansion.",
+   "Find unique sum pairs using a set-based approach.",
+   "Write 3 SQL queries using joins given specific tables.",
+   "Explain project architecture and backend functionalities.",
+   "Explain core annotations like RestController, Autowired, and Entity in Spring Boot.",
+   "Explain token generation and signature validation for JWT Authentication.",
+   "How do you handle pressure and heavy workload compared to MNCs?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself, your background, and technical strengths.",
+   "Why do you prefer SDE over Data Analyst, or vice versa?",
+   "What did you learn from your internship responsibilities?",
+   "How do you handle stress and frustration at work?",
+   "What are your short-term and long-term career goals?",
+   "Why do you want to join RestaurantWare?"
+  ],
+  "tips": [
+   "Practice aptitude regularly and manage time efficiently.",
+   "Revise basic programming logic and focus on code clarity over advanced syntax.",
+   "Strengthen fundamentals in arrays, strings, recursion, and debugging.",
+   "Prepare SQL queries and OOP concepts thoroughly.",
+   "Understand your projects end-to-end to explain architecture clearly.",
+   "Communicate confidently, stay calm, and maintain a professional tone."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "HackerRank",
+   "LeetCode",
+   "IndiaBix",
+   "W3Schools",
+   "SQLBolt"
+  ]
+ },
+ {
+  "id": "robert-bosch",
+  "name": "ROBERT BOSCH",
+  "reports": 1,
+  "roles": [
+   "Associate Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "Online MCQ assessment",
+    "focus": [
+     "Aptitude",
+     "Technical MCQ",
+     "Programming"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Video conferencing interview",
+    "focus": [
+     "Projects",
+     "Core subjects",
+     "Coding",
+     "C programming"
+    ]
+   },
+   {
+    "name": "General HR",
+    "format": "HR interview",
+    "focus": [
+     "Background",
+     "Family",
+     "Why Bosch",
+     "Achievements"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C programming",
+   "C++",
+   "Data Structures",
+   "Algorithms",
+   "Digital Circuits",
+   "Analog Electronics",
+   "Control Systems",
+   "Microcontrollers",
+   "Microprocessors",
+   "Operating Systems",
+   "DBMS",
+   "Networks"
+  ],
+  "sampleQuestions": [
+   "Find the frequency of each character in a given string.",
+   "Extract the username and its length from an email ID.",
+   "What is the difference between an array and a linked list?",
+   "Explain the difference between GPOS and RTOS.",
+   "What is the difference between a microprocessor and a microcontroller?",
+   "Explain the working of an SR flip-flop.",
+   "Write a C program to swap two values using pointers.",
+   "What are the differences between constant pointer and pointer to constant?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join Bosch?",
+   "Explain your project and your contribution.",
+   "What are your short-term and long-term goals?",
+   "Would you like to go for higher studies?",
+   "What was the biggest achievement in your life?"
+  ],
+  "tips": [
+   "Manage your time effectively during the online test.",
+   "Be thoroughly prepared and confident about your resume and projects.",
+   "Be honest if you do not know an answer.",
+   "Maintain good communication skills and confidence.",
+   "Practice aptitude problems regularly."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "Neso Academy",
+   "TutorialsPoint",
+   "R.S. Aggarwal"
+  ]
+ },
+ {
+  "id": "robert-bosch-engineering-business",
+  "name": "ROBERT BOSCH ENGINEERING & BUSINESS",
+  "reports": 1,
+  "roles": [
+   "Associate Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1: Online Test",
+    "format": "Hirepro Online Test",
+    "focus": [
+     "Technical MCQs",
+     "Quantitative Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability"
+    ]
+   },
+   {
+    "name": "Round 2: Technical HR",
+    "format": "Online Interview",
+    "focus": [
+     "Self Introduction",
+     "Project Explanation",
+     "Core Subjects",
+     "C Programming"
+    ]
+   },
+   {
+    "name": "Round 3: General HR",
+    "format": "Online Interview",
+    "focus": [
+     "Family Background",
+     "Why Bosch",
+     "Higher Studies",
+     "Communication Skills"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Digital Circuits",
+   "Analog Circuits",
+   "Control Systems",
+   "DC and AC Machines",
+   "Microcontrollers",
+   "Microprocessors",
+   "Power Electronics",
+   "C Programming",
+   "Circuit Theory",
+   "Linear Integrated Circuits"
+  ],
+  "sampleQuestions": [
+   "What is the difference between latch and flip-flop?",
+   "What is control system and explain its types?",
+   "What is the difference between microprocessor and microcontroller?",
+   "Explain the working of a transformer.",
+   "What are storage classes in C?",
+   "What is the difference between structure and union?",
+   "How do motor and generator work?",
+   "What is an op-amp and what are its applications?",
+   "What is the difference between RAM and ROM?",
+   "Write a program to find the factorial of a number using recursion."
+  ],
+  "hrQuestions": [
+   "Why Bosch?",
+   "Why do you want to join here?",
+   "Are you interested in higher studies?",
+   "What are your short term and long term goals?",
+   "Why should I hire you over others?",
+   "Are you ready to work in any location?"
+  ],
+  "tips": [
+   "Practice solving aptitude problems for time management.",
+   "Be thorough with your project and resume details.",
+   "Be honest if you do not know a concept.",
+   "Maintain confidence and do not panic during interviews.",
+   "Prepare a good self-introduction.",
+   "Ask questions to the interviewer at the end."
+  ],
+  "resources": [
+   "Indiabix",
+   "RS Aggarwal",
+   "W3schools",
+   "HackerRank",
+   "Neso Academy",
+   "GeeksforGeeks"
+  ]
+ },
+ {
+  "id": "rootquotient",
+  "name": "Rootquotient",
+  "reports": 5,
+  "roles": [
+   "Software Developer",
+   "Application Developer Intern"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment (MCQ)",
+    "focus": [
+     "Aptitude",
+     "DBMS",
+     "OOPS",
+     "Java",
+     "C++"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Coding Round",
+    "focus": [
+     "DSA",
+     "Array",
+     "Stack",
+     "Graph",
+     "Math"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Resume",
+     "Projects",
+     "OOPS",
+     "DBMS",
+     "React"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "HR Interview",
+    "focus": [
+     "Behavioral",
+     "Past Experiences",
+     "Hobbies",
+     "General Questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "OOPS",
+   "DBMS",
+   "SQL",
+   "Data Structures and Algorithms",
+   "JavaScript",
+   "React",
+   "Java",
+   "C++",
+   "Statistics",
+   "Machine Learning",
+   "Git",
+   "Docker"
+  ],
+  "sampleQuestions": [
+   "Print the adjacency list of a graph in sorted order.",
+   "Find the minimum day when k consecutive houses are filled.",
+   "What is hoisting and state in React?",
+   "What is the difference between shallow copy and deep copy?",
+   "How to find if a linked list is circular or not?",
+   "How can we make sure that multiple concurrent transactions do not interfere?",
+   "Difference between SQL and NoSQL databases.",
+   "Explain run time polymorphism with an example.",
+   "What is the diamond problem in OOPS?",
+   "Find the maximum number in each subarray of size k."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why should we hire you?",
+   "Explain your internship experience and projects.",
+   "What are your positives and negatives?",
+   "Where do you see yourself in five years?",
+   "What is your plan for the next 2 to 3 years?"
+  ],
+  "tips": [
+   "Start early and practice daily problems on LeetCode or other platforms.",
+   "Be strong with whatever you mention in your resume.",
+   "Start with the brute force approach and then optimize it.",
+   "Maintain composure and do not panic during interviews.",
+   "Admit if you do not know an answer instead of faking it.",
+   "Check for company rules such as bonds before applying."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "TakeYouForward",
+   "Jenny's Lectures",
+   "JavaTpoint"
+  ]
+ },
+ {
+  "id": "schneider-electric",
+  "name": "Schneider Electric",
+  "reports": 4,
+  "roles": [
+   "Graduate Engineer Trainee",
+   "R&D",
+   "SD - AI Hub"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Core area MCQs",
+     "Gamified Assessment",
+     "Behavioural Assessment"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Core subjects",
+     "Projects",
+     "Internships",
+     "Programming"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "General and HR Interview",
+    "focus": [
+     "General questions",
+     "Resume details",
+     "Experience"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Control Systems",
+   "OOPs",
+   "DBMS",
+   "DSA",
+   "OS",
+   "Networks",
+   "C++",
+   "Python",
+   "AC and DC Machines",
+   "Transformers"
+  ],
+  "sampleQuestions": [
+   "Explain PID Controller",
+   "What is normalisation?",
+   "Find output of code in C++",
+   "What is constructor in JAVA?",
+   "Explain your project and your contribution"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself",
+   "Why Schneider Electric?",
+   "Where do you see yourself in 5 years?",
+   "Are you ready to relocate?"
+  ],
+  "tips": [
+   "Be thorough with your resume and projects",
+   "Maintain your basic core lectures for preparation",
+   "Stay calm and be confident with your answers",
+   "Research the company and role beforehand"
+  ],
+  "resources": [
+   "Geeks for Geeks",
+   "India Bix",
+   "Neso Academy",
+   "W3Schools",
+   "PrepInsta",
+   "LeetCode"
+  ]
+ },
+ {
+  "id": "searce",
+  "name": "Searce",
+  "reports": 1,
+  "roles": [
+   "Data Engineer",
+   "Software Engineer",
+   "Analyst – Sales Operations",
+   "Cloud Consultant"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Aptitude Test",
+    "focus": [
+     "Quantitative",
+     "Logical Reasoning",
+     "Data Interpretation",
+     "Probability"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical / Fit / HR Round",
+    "focus": [
+     "Resume Projects",
+     "Puzzles",
+     "Communication",
+     "Basic Academic Concepts"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Data Structures",
+     "DBMS",
+     "SQL",
+     "Coding",
+     "Cloud Computing"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "General HR / Managerial",
+    "focus": [
+     "Logical Questions",
+     "Puzzles",
+     "Scenario Based Questions",
+     "Company Fit"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Quantitative Aptitude",
+   "Data Structures",
+   "DBMS and RDBMS",
+   "SQL and NoSQL",
+   "Object Oriented Programming",
+   "Cloud Computing",
+   "Python and Java",
+   "JavaScript",
+   "Data Science Pipeline",
+   "Puzzles",
+   "ETL",
+   "Operating Systems"
+  ],
+  "sampleQuestions": [
+   "What is the difference between DBMS and RDBMS?",
+   "Write a program for FizzBuzz.",
+   "What is Normalization and why do we need it?",
+   "Find the maximum contiguous subarray using Kadane's algorithm.",
+   "Explain how to find the heavier ball out of 8 identical looking balls using a traditional balance.",
+   "What is the difference between SQL and NoSQL?",
+   "Given an array with n-1 elements from 1 to n, find the missing element.",
+   "Uncensor a given string using the provided vowels."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why Searce?",
+   "Why do you prefer this role?",
+   "What are your goals and what do you wish to achieve in life?",
+   "What are your strengths and weaknesses?"
+  ],
+  "tips": [
+   "Be confident, calm and maintain good communication skills.",
+   "Be thorough with everything mentioned in your resume and projects.",
+   "Practice solving puzzles and aptitude questions beforehand.",
+   "If you do not know an exact answer, try to explain your logic or ask for a hint.",
+   "Make sure the interview is interactive and do not rush answers."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "Javatpoint",
+   "R S Aggarwal",
+   "HackerRank"
+  ]
+ },
+ {
+  "id": "sobha-construction",
+  "name": "SOBHA CONSTRUCTION",
+  "reports": 3,
+  "roles": [
+   "Graduate Engineering Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online MCQ test with 15 aptitude and 15 technical questions",
+    "focus": [
+     "Aptitude",
+     "Technical concepts",
+     "Time management"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Group Discussion and situational question round",
+    "focus": [
+     "Current affairs",
+     "Communication",
+     "Confidence",
+     "Leadership"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical HR Interview",
+    "focus": [
+     "Projects",
+     "Internships",
+     "Core subjects",
+     "Assignment form"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "General HR and Project Director Interview",
+    "focus": [
+     "Resume details",
+     "Personal background",
+     "Company research"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Steel structures",
+   "Structural analysis",
+   "Geotechnical engineering",
+   "Thermodynamics",
+   "Refrigeration and Air Conditioning",
+   "Manufacturing science",
+   "Material science",
+   "Quantity surveying"
+  ],
+  "sampleQuestions": [
+   "What is power factor and how do you compensate power factor in a line?",
+   "Explain the components of an HVAC system for a high-rise building.",
+   "What is the density of steel, cement, and concrete?",
+   "Explain the working principle of VCC and VCR systems.",
+   "What is the difference between cast iron and steel?"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join Sobha Constructions?",
+   "Do you prefer higher studies?",
+   "Would you be ready to work under any circumstances and in Dubai's hot condition?",
+   "What are your strengths and weaknesses?"
+  ],
+  "tips": [
+   "Manage your time carefully during the aptitude round.",
+   "Be bold, confident, and maintain a clear voice in group discussions.",
+   "Prepare your resume and assignment forms honestly without adding unknown details.",
+   "Focus heavily on core basics from second-year subjects."
+  ],
+  "resources": [
+   "Indiabix",
+   "Career Ride YouTube channel",
+   "RS Aggarwal Quantitative Aptitude",
+   "Class notes and course plans"
+  ]
+ },
+ {
+  "id": "soliton",
+  "name": "Soliton",
+  "reports": 6,
+  "roles": [
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Examly MCQ and Programming",
+    "focus": [
+     "11th and 12th Physics",
+     "C programming basics",
+     "Arrays and strings"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Examly Written Test",
+    "focus": [
+     "Fill in the blanks",
+     "Aptitude",
+     "Digital Electronics",
+     "Circuit theory"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Examly Programming Test",
+    "focus": [
+     "Array handling",
+     "String manipulation",
+     "Bit manipulation"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Advanced Programming",
+    "focus": [
+     "2D arrays",
+     "Strings",
+     "Proctor interaction"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "HR Round",
+    "focus": [
+     "General HR",
+     "Technical HR",
+     "Mini project",
+     "Resume"
+    ]
+   },
+   {
+    "name": "Round 6",
+    "format": "Design Round",
+    "focus": [
+     "Group discussion",
+     "Real-life problem solving",
+     "Teamwork"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C programming",
+   "11th and 12th Physics",
+   "Arrays and strings",
+   "Bit manipulation",
+   "Aptitude",
+   "Digital electronics"
+  ],
+  "sampleQuestions": [
+   "Check if the given number is a palindrome or not.",
+   "Find the sum of the given binary numbers without using binary to decimal conversion.",
+   "Program to implement FLAMES.",
+   "Find the maximum number that can be formed from the given array of numbers without separating the digits."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why Soliton?",
+   "What do you know about Soliton?",
+   "Where will you see yourself in 5 years both personally and professionally?"
+  ],
+  "tips": [
+   "Practice coding and typing quickly.",
+   "Focus on logic rather than passing all test cases.",
+   "Communicate your approach clearly to the proctor.",
+   "Be honest and maintain positive body language during HR interviews."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "Indiabix",
+   "LeetCode",
+   "Hackerrank",
+   "Codechef"
+  ]
+ },
+ {
+  "id": "sona-comstar",
+  "name": "SONA COMSTAR",
+  "reports": 2,
+  "roles": [
+   "Graduate Engineer Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Online Assessment",
+    "format": "Aon CoCubes MCQ assessment",
+    "focus": [
+     "Quantitative Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability",
+     "Electrical and Electronics",
+     "C programming"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Offline face to face interview",
+    "focus": [
+     "Core basics",
+     "Mini Project",
+     "Internship",
+     "Electrical machines",
+     "Digital Electronics"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Quantitative Aptitude",
+   "Digital Electronics",
+   "8051 Microcontroller",
+   "LIC",
+   "Electrical Vehicles",
+   "Motors",
+   "C programming",
+   "Power Electronics",
+   "Control Systems",
+   "Analog Electronics"
+  ],
+  "sampleQuestions": [
+   "Testing a good diode with an ohmmeter should indicate what resistances?",
+   "Find the output voltage of an inverting amplifier given resistances and input voltage.",
+   "Draw the symbol, truth table, and equation for a NOR gate and implement it using a transistor.",
+   "Write a program to swap two numbers using pointers.",
+   "Explain the complete PCB design flow.",
+   "What is the reason for making the armature slots deeper in an electric motor?",
+   "List the types of motors used in electric vehicles.",
+   "Explain your mini project with a block diagram and working principle."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself, your project, and your internship.",
+   "Why did you choose this manufacturing role?",
+   "Will you expect the same joyful college life at the workplace?",
+   "Are you ready to work at the R and D department?"
+  ],
+  "tips": [
+   "Manage time efficiently during the online assessment by solving easy questions first.",
+   "Be thorough with your projects and internships as they are heavily discussed.",
+   "If you do not know an answer, admit it honestly rather than guessing.",
+   "Maintain confidence, stay calm, and use pen and paper to explain concepts.",
+   "Keep the interview interactive and maintain a positive attitude."
+  ],
+  "resources": [
+   "Indiabix",
+   "RS Aggarwal book",
+   "Neso Academy",
+   "Byts",
+   "TutorialsPoint",
+   "CareerRide"
+  ]
+ },
+ {
+  "id": "span-technology-services",
+  "name": "SPAN TECHNOLOGY SERVICES",
+  "reports": 4,
+  "roles": [
+   "Junior Business Analyst Trainee",
+   "Junior QA Engineer",
+   "Junior AI Engineer",
+   "Junior Software Engineer Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online MCQ Assessment",
+    "focus": [
+     "Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability",
+     "Data Interpretation",
+     "Technical MCQs"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Group Discussion",
+    "focus": [
+     "Trending Topics",
+     "Communication Skills",
+     "Team Interaction",
+     "General Awareness"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Resume Projects",
+     "Basic Coding",
+     "SQL",
+     "OOPs",
+     "SDLC and Testing"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Second Technical or Panel Interview",
+    "focus": [
+     "Domain Knowledge",
+     "Advanced Technical Questions",
+     "Problem Solving",
+     "Scenario Analysis"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "HR Interview",
+    "focus": [
+     "Self Introduction",
+     "Family Background",
+     "Bond Details",
+     "Joining Location"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Quantitative Aptitude",
+   "Data Interpretation",
+   "SQL and Databases",
+   "Object-Oriented Programming",
+   "Data Structures and Algorithms",
+   "Software Development Life Cycle",
+   "Machine Learning",
+   "Operating Systems",
+   "Computer Networks",
+   "HTML CSS JavaScript"
+  ],
+  "sampleQuestions": [
+   "Reverse a string and find duplicates in an array.",
+   "Write a SQL query using joins and aggregate functions.",
+   "Explain your academic projects and their workflows.",
+   "What is the difference between authorization and authentication?",
+   "Write code to implement encapsulation or inheritance."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you prefer this role?",
+   "What do you know about Span Technologies?",
+   "Tell me about your family background.",
+   "Are you comfortable with the bond agreement?"
+  ],
+  "tips": [
+   "Be thorough with everything you mention on your resume.",
+   "Practice aptitude and basic coding questions daily.",
+   "Maintain confidence and clear communication during interviews.",
+   "Follow proper etiquette during group discussions."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "PrepInsta",
+   "InterviewBit",
+   "W3Schools"
+  ]
+ },
+ {
+  "id": "striim",
+  "name": "STRIIM",
+  "reports": 2,
+  "roles": [
+   "Software Development Engineer",
+   "Software Development Intern",
+   "Software Development Engineer in Test",
+   "Software Development Engineer - UI"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "HackerEarth or HackerRank coding assessment",
+    "focus": [
+     "Data Structures",
+     "Algorithms",
+     "Problem Solving",
+     "Arrays and Strings",
+     "Dynamic Programming"
+    ]
+   },
+   {
+    "name": "Technical Interview 1",
+    "format": "Face-to-face or online video interview",
+    "focus": [
+     "Code Review",
+     "Data Structures",
+     "Object Oriented Programming",
+     "Database Management System",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Technical Interview 2",
+    "format": "In-person or video interview",
+    "focus": [
+     "Java",
+     "Operating Systems",
+     "Software Testing",
+     "Linux Basics",
+     "Advanced Problem Solving"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Data Structures",
+   "Algorithms",
+   "Object Oriented Programming",
+   "Database Management System",
+   "Operating Systems",
+   "Java",
+   "Software Testing",
+   "Dynamic Programming",
+   "Arrays and Strings",
+   "Computer Networks"
+  ],
+  "sampleQuestions": [
+   "Find the minimum number of edits required to convert str2 into str1.",
+   "Given an array, print the Next Greater Element for every element.",
+   "Reverse a linked list.",
+   "Find the frequency of letters in a string.",
+   "What is the difference between process and threads?",
+   "Explain ACID properties with examples.",
+   "How does Java code execution work and what is JVM, JRE, and JDK?",
+   "Find the maximum sum path in a binary tree."
+  ],
+  "hrQuestions": [
+   "Why should I hire you?",
+   "Tell me about your internship experience.",
+   "What did you learn on your own?",
+   "Why did you choose to learn those technologies?"
+  ],
+  "tips": [
+   "Practice coding daily to improve problem-solving speed.",
+   "Always start with the brute force approach and then optimize.",
+   "Focus on reducing space and time complexity.",
+   "Talk through your thought process out loud during interviews.",
+   "Be thorough with projects and certifications mentioned in your resume.",
+   "Know the fundamentals of core subjects like OOPS and DBMS."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "HackerRank",
+   "TakeUForward",
+   "InterviewBit",
+   "W3Schools"
+  ]
+ },
+ {
+  "id": "survey-sparrow",
+  "name": "Survey Sparrow",
+  "reports": 3,
+  "roles": [
+   "AI/ML intern",
+   "AI/ML Engineer",
+   "BACKEND DEVELOPER"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "MCQ and descriptive questions",
+    "focus": [
+     "Statistics",
+     "ML",
+     "DL",
+     "PyTorch",
+     "DSA",
+     "DBMS"
+    ]
+   },
+   {
+    "name": "Assignment or Task Round",
+    "format": "GitHub assignment / problem statement",
+    "focus": [
+     "Real-time projects",
+     "LLMs",
+     "Development"
+    ]
+   },
+   {
+    "name": "AI Interview",
+    "format": "Audio-based automated prompt responses",
+    "focus": [
+     "General",
+     "Statistics",
+     "ML",
+     "DL",
+     "LLM",
+     "HR/Managerial"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Google Meet discussion",
+    "focus": [
+     "Advanced Statistics",
+     "ML and DL concepts",
+     "OS",
+     "DBMS",
+     "DSA",
+     "Networking"
+    ]
+   },
+   {
+    "name": "Director of Engineering Interview",
+    "format": "Google Meet",
+    "focus": [
+     "Code debugging",
+     "DSA",
+     "Scenario-based questions"
+    ]
+   },
+   {
+    "name": "CTO Interview",
+    "format": "Google Meet",
+    "focus": [
+     "Recent AI advancements",
+     "System design",
+     "Project discussion",
+     "Company knowledge"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Statistics and probability",
+   "Machine Learning fundamentals",
+   "Deep Learning and PyTorch",
+   "Large Language Models",
+   "Data Structures and Algorithms",
+   "Database Management Systems",
+   "Operating Systems",
+   "Computer Networks",
+   "Object-Oriented Programming"
+  ],
+  "sampleQuestions": [
+   "What is the difference between HAVING and WHERE clause?",
+   "How does backpropagation work in deep learning?",
+   "Given an array of integers, return the number of unique k-diff pairs.",
+   "Explain memory layout of C++ including heap and stack memory.",
+   "How would you prevent DDoS attacks?"
+  ],
+  "hrQuestions": [
+   "Tell me about a tough situation you faced and how you overcame it.",
+   "Where do you see yourself in 3 years?",
+   "What do you know about Survey Sparrow?",
+   "If you could create a feature in the existing product, what would it be?"
+  ],
+  "tips": [
+   "Focus on ML fundamentals and statistical tests.",
+   "Associate answers with real-time scenarios.",
+   "Be clear about what you know and politely admit if unsure.",
+   "Communicate clearly and speak confidently.",
+   "Prepare thoroughly for code debugging."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "StatQuest with Josh Starmer",
+   "3blue1brown",
+   "Striver A2Z sheet"
+  ]
+ },
+ {
+  "id": "tcs",
+  "name": "TCS",
+  "reports": 6,
+  "roles": [
+   "Assistant System Engineer - Trainee",
+   "Ninja"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Test",
+    "focus": [
+     "Numerical Ability",
+     "Verbal Ability",
+     "Reasoning Ability",
+     "Advanced Quantitative",
+     "Coding"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Face to Face Interview",
+    "focus": [
+     "Technical",
+     "Managerial",
+     "HR"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Aptitude",
+   "Reasoning",
+   "Verbal",
+   "Coding",
+   "DBMS",
+   "OOPS",
+   "Operating Systems",
+   "Data Structures",
+   "SQL",
+   "Python",
+   "Java",
+   "C"
+  ],
+  "sampleQuestions": [
+   "Can we add two pointers? If yes, how? If not, why?",
+   "What is the difference between delete and truncate?",
+   "Write a program to check if numbers in an array are strong numbers.",
+   "Write a query to find the names which have alphabet A in their name.",
+   "What is a macro in C?",
+   "Explain about the project mentioned in resume."
+  ],
+  "hrQuestions": [
+   "Why TCS?",
+   "What do you know about TCS?",
+   "Are you open to relocation?",
+   "Will you be comfortable working night shifts?",
+   "Tell me about yourself.",
+   "Where do you see yourself after five years?"
+  ],
+  "tips": [
+   "Be confident and stay calm.",
+   "Practice quantitative aptitude on a daily basis.",
+   "Be thorough with everything mentioned in your resume.",
+   "Listen to the question carefully and answer.",
+   "Manage time effectively during tests and interviews."
+  ],
+  "resources": [
+   "IndiaBix",
+   "PrepInsta",
+   "GeeksforGeeks",
+   "LeetCode",
+   "HackerRank"
+  ]
+ },
+ {
+  "id": "tekizma",
+  "name": "Tekizma",
+  "reports": 3,
+  "roles": [
+   "Product Engineer",
+   "Java Developer",
+   "Product Engineer Trainee"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Written or Online Test",
+    "focus": [
+     "Aptitude",
+     "Coding",
+     "SQL",
+     "Java"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Resume",
+     "Projects",
+     "OOPS",
+     "DBMS",
+     "Data Structures"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical or Managerial Round",
+    "focus": [
+     "Coding",
+     "Machine Learning",
+     "Statistics",
+     "System Design"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "HR Interview",
+    "focus": [
+     "General Conversation",
+     "Availability",
+     "Offers"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Java",
+   "OOPS",
+   "DBMS",
+   "SQL",
+   "Data Structures",
+   "Algorithms",
+   "Machine Learning",
+   "Statistics",
+   "HTML",
+   "CSS",
+   "JavaScript"
+  ],
+  "sampleQuestions": [
+   "Display the employee names who do not have a project.",
+   "Find the second highest salary in a column.",
+   "Write a function to check if a given number is a palindrome.",
+   "What are the types of joins in SQL?",
+   "Explain the pillars of OOPS with real time examples."
+  ],
+  "hrQuestions": [
+   "Why would you like to join Tekizma?",
+   "What is your daily routine?",
+   "How are you different from top rank holders?",
+   "What is your availability for joining?"
+  ],
+  "tips": [
+   "Be confident and thorough with all concepts in your resume.",
+   "Practice coding and aptitude daily.",
+   "Ask the interviewer for hints if you get stuck.",
+   "Be honest if you do not know an answer."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "W3Schools",
+   "InterviewBit"
+  ]
+ },
+ {
+  "id": "tekmedia",
+  "name": "TekMedia",
+  "reports": 4,
+  "roles": [
+   "Embedded Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Written Test (MCQs)",
+    "focus": [
+     "General Aptitude",
+     "Computer Networks",
+     "Operating System",
+     "C++",
+     "DBMS",
+     "Media Graphics"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "Computer Networks",
+     "Operating System",
+     "C++",
+     "OOPs",
+     "DSA",
+     "Linux Commands"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview 2 / Technical HR",
+    "focus": [
+     "DSA",
+     "Linux Commands",
+     "C++",
+     "Project discussion",
+     "DBMS"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "General HR Interview",
+    "focus": [
+     "General questions about the company",
+     "Behavioral questions"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Computer Networks",
+   "Operating Systems",
+   "C++",
+   "OOPs",
+   "Data Structures and Algorithms",
+   "Linux Commands",
+   "DBMS",
+   "Media Graphics",
+   "Artificial Intelligence"
+  ],
+  "sampleQuestions": [
+   "What is DHCP and what is the difference between TCP and UDP?",
+   "What is a Kernel and what are the states of a kernel?",
+   "Find the intersection node of two linked lists.",
+   "What is the difference between Vectors and Lists?",
+   "Write a code that implements a virtual function using 1 parent class and 2 base classes.",
+   "What is Normalization and what are the types of Joins in SQL?",
+   "How does DNS work and what protocol is used in media streaming?",
+   "Find a circle in a linked list using the slow and fast pointer approach."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join here?",
+   "How will you fit into the company?",
+   "What are your short term and long term goals?",
+   "How do you handle stress and pressure?"
+  ],
+  "tips": [
+   "Prepare basic general aptitude topics well and use options to eliminate wrong answers.",
+   "Be careful of negative marking in the written test.",
+   "Have a deep understanding of your entire project and explain it clearly.",
+   "Learn core concepts by connecting them with real-life examples.",
+   "Stay calm, confident, and answer clearly during interviews."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "IndiaBix",
+   "LeetCode",
+   "Strivers SDE Sheet",
+   "RS Aggarwal",
+   "TutorialsPoint"
+  ]
+ },
+ {
+  "id": "thorogood-associates",
+  "name": "Thorogood Associates",
+  "reports": 7,
+  "roles": [
+   "Data and Analytics consultant",
+   "Data and AI consultant"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Test via Hirepro",
+    "focus": [
+     "Essay Writing",
+     "Aptitude",
+     "About Thorogood"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Face to Face Interview",
+    "focus": [
+     "Resume",
+     "Projects",
+     "Internship Experience",
+     "Behavioral Questions"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Assessment Centre",
+    "focus": [
+     "Case Study",
+     "Fact Finding",
+     "Group Discussion",
+     "HR Interview"
+    ]
+   }
+  ],
+  "techTopics": [
+   "SQL",
+   "DBMS",
+   "Data Visualization",
+   "Quantitative Aptitude",
+   "Logical Reasoning",
+   "Data Interpretation",
+   "Data Sufficiency"
+  ],
+  "sampleQuestions": [
+   "How to stay informed in your areas of interest or study?",
+   "What are the drawbacks and benefits of a flexible work schedule?",
+   "Provide an overview of your project and the challenges faced.",
+   "What do you know about Thorogood?"
+  ],
+  "hrQuestions": [
+   "Have you received any positive feedback?",
+   "Have you encouraged someone in their difficult times?",
+   "What is one constructive feedback you received during your internship, and how did you work on it?"
+  ],
+  "tips": [
+   "Practice aptitude consistently and manage your time well.",
+   "Improve your vocabulary and practice typing regularly for the essay.",
+   "Be thorough with everything on your resume.",
+   "Stay confident, calm, and communicate your thoughts clearly."
+  ],
+  "resources": [
+   "IndiaBix",
+   "GeeksforGeeks",
+   "MonkeyType",
+   "CareerRide",
+   "RS Agarwal Quantitative Aptitude",
+   "Feel Free to Learn YouTube Channel"
+  ]
+ },
+ {
+  "id": "tiger-analytics",
+  "name": "Tiger Analytics",
+  "reports": 4,
+  "roles": [
+   "Data Engineer",
+   "Software Engineer",
+   "Analyst - Data Science",
+   "Data Analyst"
+  ],
+  "rounds": [
+   {
+    "name": "Aptitude Round",
+    "format": "Online Test",
+    "focus": [
+     "Aptitude",
+     "DBMS",
+     "Coding",
+     "SQL Queries",
+     "Probability"
+    ]
+   },
+   {
+    "name": "Coding Round",
+    "format": "Online Coding",
+    "focus": [
+     "Arrays",
+     "Strings",
+     "Logical Thinking",
+     "Basic Mathematics",
+     "Bit Manipulation"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "Video Interview",
+    "focus": [
+     "OOPS",
+     "DBMS",
+     "Python",
+     "Problem Solving",
+     "Statistics"
+    ]
+   },
+   {
+    "name": "HR Round",
+    "format": "Video Interview",
+    "focus": [
+     "Behavioral Questions",
+     "Projects",
+     "Communication",
+     "Self Introduction"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Aptitude",
+   "DBMS",
+   "SQL Queries",
+   "OOPS",
+   "Python",
+   "Data Structures",
+   "Algorithms",
+   "Probability",
+   "Statistics",
+   "Machine Learning"
+  ],
+  "sampleQuestions": [
+   "What is REST?",
+   "Write a code on Fibonacci series.",
+   "Write down the code to reverse a string.",
+   "What are the solid pillars of OOPS?",
+   "Find the Number of elements found common in Two arrays."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why Tiger Analytics?",
+   "Can you share one significant achievement from your four years in college?",
+   "What are your hobbies?",
+   "What is your favorite movie and Why?"
+  ],
+  "tips": [
+   "Practice aptitude questions and coding on regular basis.",
+   "Be confident in the projects mentioned in your resume.",
+   "Do not panic and do not tell irrelevant answers.",
+   "Start with a basic brute force approach when a solution seems tricky.",
+   "Pay attention to hints given by the interviewers."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "IndiaBix",
+   "HackerRank",
+   "HackerEarth",
+   "W3Schools"
+  ]
+ },
+ {
+  "id": "toshiba",
+  "name": "TOSHIBA",
+  "reports": 7,
+  "roles": [
+   "Trainee Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Aptitude",
+     "Logical Reasoning",
+     "C Programming",
+     "Coding"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "C Programming",
+     "Bit Manipulation",
+     "Operating Systems",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "Data Structures",
+     "Operating Systems",
+     "C Programming",
+     "Puzzles"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Managerial HR",
+    "focus": [
+     "Puzzles",
+     "Scenario Handling",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 5",
+    "format": "General HR",
+    "focus": [
+     "Family Background",
+     "Problem Solving Ability",
+     "Teamwork"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C programming",
+   "Bit manipulation",
+   "Operating systems",
+   "Data structures and algorithms",
+   "Puzzles",
+   "Quantitative aptitude",
+   "Logical reasoning",
+   "Microcontrollers",
+   "DBMS"
+  ],
+  "sampleQuestions": [
+   "Find the Nth prime number.",
+   "Multiply two numbers without using multiplication operator.",
+   "Set and clear a bit in a 32-bit integer.",
+   "Reverse a singly or doubly linked list.",
+   "Find the sum of divisors of a given number."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Explain your recent project and its hardware.",
+   "What are your strengths and family background?",
+   "Why do you want to join Toshiba?"
+  ],
+  "tips": [
+   "Be strong in C programming basics and storage classes.",
+   "Practice coding and arithmetic aptitude regularly.",
+   "Be prepared to explain your projects and code clearly.",
+   "Stay calm and be ready to handle stress management or puzzles."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "Indiabix",
+   "Javatpoint",
+   "Hackerrank"
+  ]
+ },
+ {
+  "id": "ugam-solutions",
+  "name": "Ugam Solutions",
+  "reports": 1,
+  "roles": [
+   "Analyst",
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Online Test",
+    "format": "MCQ Online Assessment",
+    "focus": [
+     "Quantitative Aptitude",
+     "Logical Reasoning",
+     "Verbal Ability",
+     "Data Interpretation"
+    ]
+   },
+   {
+    "name": "Group Discussion",
+    "format": "Virtual Panel Discussion",
+    "focus": [
+     "Communication Skills",
+     "Current Trends",
+     "Teamwork"
+    ]
+   },
+   {
+    "name": "Technical Interview",
+    "format": "One-on-One Virtual Interview",
+    "focus": [
+     "Python",
+     "SQL",
+     "DBMS",
+     "Projects",
+     "Data Structures"
+    ]
+   },
+   {
+    "name": "HR Interview",
+    "format": "Telephonic Interview",
+    "focus": [
+     "Personal Background",
+     "Company Knowledge",
+     "Communication"
+    ]
+   }
+  ],
+  "techTopics": [
+   "Python",
+   "SQL",
+   "DBMS",
+   "Machine Learning",
+   "Data Structures",
+   "C++",
+   "Data Interpretation",
+   "Quantitative Aptitude"
+  ],
+  "sampleQuestions": [
+   "What are joins and what is their use?",
+   "Difference between sum of numbers in odd place and sum of numbers in even place",
+   "Write a code to find prime numbers between a given range",
+   "What is the difference between DBMS and RDBMS?",
+   "Explain your resume projects and the models used"
+  ],
+  "hrQuestions": [
+   "Tell me about yourself and your family background.",
+   "Why do you want to join Ugam Solutions?",
+   "Are you willing to relocate?",
+   "What are your long-term goals?"
+  ],
+  "tips": [
+   "Be thorough with everything mentioned in your resume.",
+   "Maintain good communication and confidence throughout.",
+   "Manage time effectively during the online aptitude test.",
+   "Admit honestly if you do not know an answer."
+  ],
+  "resources": [
+   "IndiaBix",
+   "GeeksforGeeks",
+   "W3Schools",
+   "Javatpoint",
+   "Prepinsta"
+  ]
+ },
+ {
+  "id": "wissen-technology",
+  "name": "WISSEN TECHNOLOGY",
+  "reports": 3,
+  "roles": [
+   "Developer",
+   "Software Engineer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Online Assessment",
+    "focus": [
+     "Coding",
+     "DBMS",
+     "OOPS",
+     "Java"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Technical Interview",
+    "focus": [
+     "DSA",
+     "Projects",
+     "DBMS",
+     "OS"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Technical Interview",
+    "focus": [
+     "DSA",
+     "Java",
+     "OOPs",
+     "Projects"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical and HR",
+    "focus": [
+     "Projects",
+     "Software Engineering",
+     "Behavioral"
+    ]
+   }
+  ],
+  "techTopics": [
+   "DSA",
+   "OOPs",
+   "DBMS",
+   "OS",
+   "Java",
+   "SQL",
+   "Dynamic Programming",
+   "Linked List",
+   "Trees",
+   "Graphs"
+  ],
+  "sampleQuestions": [
+   "Check for Binary palindromic string.",
+   "Detect loop in a singly Linked List.",
+   "Find the missing and repeating number.",
+   "Swap two variables without using a temporary variable.",
+   "Validate Binary Search Tree.",
+   "Find the count of perfect squares obtained by multiple of two values."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Why do you want to join Wissen?",
+   "Where do you see yourself after 5 years?",
+   "Why are you not interested to do M.E.?"
+  ],
+  "tips": [
+   "Practice coding daily and maintain a streak.",
+   "Be strong in CS fundamentals.",
+   "Exhaustive study of projects is mandatory.",
+   "Do not lie in your resume."
+  ],
+  "resources": [
+   "LeetCode",
+   "GeeksforGeeks",
+   "IndiaBix",
+   "Strivers A2Z DSA Course"
+  ]
+ },
+ {
+  "id": "zoho",
+  "name": "ZOHO",
+  "reports": 7,
+  "roles": [
+   "Software Developer"
+  ],
+  "rounds": [
+   {
+    "name": "Round 1",
+    "format": "Written Test",
+    "focus": [
+     "General Aptitude",
+     "C Programming",
+     "Pointers",
+     "Basic Math"
+    ]
+   },
+   {
+    "name": "Round 2",
+    "format": "Coding Round",
+    "focus": [
+     "Problem Solving",
+     "Arrays",
+     "Strings",
+     "Binary Search",
+     "Stack",
+     "Recursion"
+    ]
+   },
+   {
+    "name": "Round 3",
+    "format": "Advanced Coding",
+    "focus": [
+     "Object Oriented Programming",
+     "Low Level Design",
+     "Library Management System"
+    ]
+   },
+   {
+    "name": "Round 4",
+    "format": "Technical Interview",
+    "focus": [
+     "Projects",
+     "Operating Systems",
+     "Database Management Systems",
+     "Computer Networks",
+     "DSA"
+    ]
+   }
+  ],
+  "techTopics": [
+   "C Programming",
+   "Data Structures and Algorithms",
+   "Object Oriented Programming",
+   "Operating Systems",
+   "Database Management Systems",
+   "Computer Networks",
+   "Arrays",
+   "Strings",
+   "Recursion",
+   "Stack",
+   "Binary Search",
+   "Low Level System Design"
+  ],
+  "sampleQuestions": [
+   "Traverse a matrix in a spiral manner.",
+   "Evaluate an expression represented by a string.",
+   "Find the minimum element in a rotated sorted array.",
+   "Implement regular expression matching with support for '.' and '*'.",
+   "Count pairs with sum less than target.",
+   "Find the square root of a number without using built-in functions."
+  ],
+  "hrQuestions": [
+   "Tell me about yourself.",
+   "Tell me about your family background.",
+   "What is your greatest achievement in your life?",
+   "Do you have any questions you want to ask?"
+  ],
+  "tips": [
+   "Practice aptitude and coding regularly.",
+   "Communicate your thought process clearly to the proctors.",
+   "Do not panic if you do not know the optimal solution; try brute force and explain your approach.",
+   "Be thorough with all technologies and projects mentioned in your resume.",
+   "Read the questions thoroughly before getting started."
+  ],
+  "resources": [
+   "GeeksforGeeks",
+   "LeetCode",
+   "IndiaBix",
+   "Take You Forward",
+   "CareerRide"
+  ]
+ }
+]
